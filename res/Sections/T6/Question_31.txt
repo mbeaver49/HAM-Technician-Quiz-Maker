@@ -1,0 +1,7 @@
+
+T6C09 (D)
+What is component 4 in figure T2?
+A. Variable inductor
+B. Double-pole switch
+C. Potentiometer
+D. Transformer

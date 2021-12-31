@@ -1,0 +1,7 @@
+
+T3C07 (B)
+What band is best suited for communicating via meteor scatter?
+A. 10 meter band
+B. 6 meter band
+C. 2 meter band
+D. 70 centimeter band

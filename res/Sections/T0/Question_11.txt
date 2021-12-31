@@ -1,0 +1,7 @@
+
+T0A11 (D)
+What kind of hazard might exist in a power supply when it is turned off and disconnected?
+A. Static electricity could damage the grounding system
+B. Circulating currents inside the transformer might cause damage
+C. The fuse might blow if you remove the cover
+D. You might receive an electric shock from the charge stored in large capacitors

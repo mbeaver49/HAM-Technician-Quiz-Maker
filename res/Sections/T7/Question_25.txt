@@ -1,0 +1,7 @@
+
+T7C02 (B)
+Which of the following instruments can be used to determine if an antenna is resonant at the desired operating frequency?
+A. A VTVM
+B. An antenna analyzer
+C. A Q meter
+D. A frequency counter

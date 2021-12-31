@@ -1,0 +1,7 @@
+
+T4B06 (D)
+Which of the following controls could be used if the voice pitch of a single-sideband signal seems too high or low?
+A. The AGC or limiter
+B. The bandwidth selection
+C. The tone squelch
+D. The receiver RIT or clarifier

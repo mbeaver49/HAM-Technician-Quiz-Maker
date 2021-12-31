@@ -1,0 +1,8 @@
+
+T2B02 (D)
+What term describes the use of a sub-audible tone transmitted along with normal voice audio to open the squelch of a
+receiver?
+A. Carrier squelch
+B. Tone burst
+C. DTMF
+D. CTCSS

@@ -1,0 +1,7 @@
+
+T1E07 (D) [97.103(a)]
+When the control operator is not the station licensee, who is responsible for the proper operation of the station?
+A. All licensed amateurs who are present at the operation
+B. Only the station licensee
+C. Only the control operator
+D. The control operator and the station licensee are equally responsible

@@ -1,0 +1,7 @@
+
+T1F05 (B) [97.119(b)(2)]
+What method of call sign identification is required for a station transmitting phone signals?
+A. Send the call sign followed by the indicator RPT
+B. Send the call sign using a CW or phone emission
+C. Send the call sign followed by the indicator R
+D. Send the call sign using only a phone emission

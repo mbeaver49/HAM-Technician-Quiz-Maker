@@ -1,0 +1,7 @@
+
+T7C06 (D)
+What does an SWR reading of 4:1 indicate?
+A. Loss of -4 dB
+B. Good impedance match
+C. Gain of +4 dB
+D. Impedance mismatch

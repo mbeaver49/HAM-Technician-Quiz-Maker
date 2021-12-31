@@ -1,0 +1,7 @@
+
+T7B11 (C)
+What is a symptom of RF feedback in a transmitter or transceiver?
+A. Excessive SWR at the antenna connection
+B. The transmitter will not stay on the desired frequency
+C. Reports of garbled, distorted, or unintelligible voice transmissions
+D. Frequent blowing of power supply fuses

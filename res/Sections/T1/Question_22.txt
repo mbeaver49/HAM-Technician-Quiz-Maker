@@ -1,0 +1,8 @@
+
+T1B11 (A) [97.313]
+What is the maximum peak envelope power output for Technician class operators using their assigned portions of the HF
+bands?
+A. 200 watts
+B. 100 watts
+C. 50 watts
+D. 10 watts

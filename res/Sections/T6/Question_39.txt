@@ -1,0 +1,7 @@
+
+T6D11 (A)
+Which of the following is a resonant or tuned circuit?
+A. An inductor and a capacitor connected in series or parallel to form a filter
+B. A type of voltage regulator
+C. A resistor circuit used for reducing standing wave ratio
+D. A circuit designed to provide high-fidelity audio

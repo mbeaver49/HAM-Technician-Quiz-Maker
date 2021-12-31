@@ -1,0 +1,7 @@
+
+T0B03 (D)
+Under what circumstances is it safe to climb a tower without a helper or observer?
+A. When no electrical work is being performed
+B. When no mechanical work is being performed
+C. When the work being done is not more than 20 feet above the ground
+D. Never

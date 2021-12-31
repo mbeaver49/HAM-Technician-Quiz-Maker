@@ -1,0 +1,8 @@
+
+T8D11 (C)
+What is an ARQ transmission system?
+A. A special transmission format limited to video signals
+B. A system used to encrypt command signals to an amateur radio satellite
+C. A digital scheme whereby the receiving station detects errors and sends a request to the sending station to retransmit
+the information
+D. A method of compressing the data in a message so more information can be sent in a shorter time

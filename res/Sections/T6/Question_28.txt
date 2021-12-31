@@ -1,0 +1,7 @@
+
+T6C06 (B)
+What is component 6 in figure T2?
+A. Resistor
+B. Capacitor
+C. Regulator IC
+D. Transistor

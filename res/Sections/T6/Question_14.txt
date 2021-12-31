@@ -1,0 +1,7 @@
+
+T6B03 (C)
+Which of these components can be used as an electronic switch or amplifier?
+A. Oscillator
+B. Potentiometer
+C. Transistor
+D. Voltmeter

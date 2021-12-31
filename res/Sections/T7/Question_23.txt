@@ -1,0 +1,7 @@
+
+T7B12 (D)
+What should be the first step to resolve cable TV interference from your ham radio transmission?
+A. Add a low-pass filter to the TV antenna input
+B. Add a high-pass filter to the TV antenna input
+C. Add a preamplifier to the TV antenna input
+D. Be sure all TV coaxial connectors are installed properly

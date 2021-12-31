@@ -1,0 +1,7 @@
+
+T1E09 (D) [97.109(c)]
+Which of the following is true of remote control operation?
+A. The control operator must be at the control point
+B. A control operator is required at all times
+C. The control operator indirectly manipulates the controls
+D. All of these choices are correct

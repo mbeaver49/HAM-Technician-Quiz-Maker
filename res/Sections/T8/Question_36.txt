@@ -1,0 +1,8 @@
+
+T8D03 (D)
+Which of the following devices is used to provide data to the transmitter when sending automatic position reports from a
+mobile amateur radio station?
+A. The vehicle speedometer
+B. A WWV receiver
+C. A connection to a broadcast FM sub-carrier receiver
+D. A Global Positioning System receiver

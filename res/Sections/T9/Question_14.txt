@@ -1,0 +1,7 @@
+
+T9B02 (B)
+What is the impedance of most coaxial cables used in amateur radio installations?
+A. 8 ohms
+B. 50 ohms
+C. 600 ohms
+D. 12 ohms

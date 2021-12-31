@@ -1,0 +1,7 @@
+
+T1F06 (D) [97.119(c)]
+Which of the following formats of a self-assigned indicator is acceptable when identifying using a phone transmission?
+A. KL7CC stroke W3
+B. KL7CC slant W3
+C. KL7CC slash W3
+D. All of these choices are correct

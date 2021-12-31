@@ -1,0 +1,7 @@
+
+T6C08 (C)
+What is component 9 in figure T2?
+A. Variable capacitor
+B. Variable inductor
+C. Variable resistor
+D. Variable transformer

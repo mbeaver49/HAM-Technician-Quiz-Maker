@@ -1,0 +1,7 @@
+
+T8C07 (D)
+What is meant by Voice Over Internet Protocol (VoIP) as used in amateur radio?
+A. A set of rules specifying how to identify your station when linked over the internet to another station
+B. A set of guidelines for contacting DX stations during contests using internet access
+C. A technique for measuring the modulation quality of a transmitter using remote sites monitored via the internet
+D. A method of delivering voice communications over the internet using digital techniques

@@ -1,0 +1,7 @@
+
+T8B10 (C)
+What do the initials LEO tell you about an amateur satellite?
+A. The satellite battery is in Low Energy Operation mode
+B. The satellite is performing a Lunar Ejection Orbit maneuver
+C. The satellite is in a Low Earth Orbit
+D. The satellite uses Light Emitting Optics

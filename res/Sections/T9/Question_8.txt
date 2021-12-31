@@ -1,0 +1,7 @@
+
+T9A08 (C)
+What is the approximate length, in inches, of a quarter-wavelength vertical antenna for 146 MHz?
+A. 112
+B. 50
+C. 19
+D. 12

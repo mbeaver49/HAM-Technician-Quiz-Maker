@@ -1,0 +1,7 @@
+
+T8B06 (B)
+Which of the following are inputs to a satellite tracking program?
+A. The weight of the satellite
+B. The Keplerian elements
+C. The last observed time of zero Doppler shift
+D. All of these choices are correct

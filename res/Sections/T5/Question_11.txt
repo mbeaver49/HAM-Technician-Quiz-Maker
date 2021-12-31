@@ -1,0 +1,7 @@
+
+T5A12 (D)
+What describes the number of times per second that an alternating current makes a complete cycle?
+A. Pulse rate
+B. Speed
+C. Wavelength
+D. Frequency

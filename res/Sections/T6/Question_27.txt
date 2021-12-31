@@ -1,0 +1,7 @@
+
+T6C05 (C)
+What is component 4 in figure T1?
+A. Resistor
+B. Transistor
+C. Battery
+D. Ground symbol

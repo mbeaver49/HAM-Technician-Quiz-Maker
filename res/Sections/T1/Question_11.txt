@@ -1,0 +1,7 @@
+
+T1A11 (B) [97.101 (d)]
+When is willful interference to other amateur radio stations permitted?
+A. To stop another amateur station which is breaking the FCC rules
+B. At no time
+C. When making short test transmissions
+D. At any time, stations in the Amateur Radio Service are not protected from willful interference

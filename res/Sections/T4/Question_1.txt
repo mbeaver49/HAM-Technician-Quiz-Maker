@@ -1,0 +1,7 @@
+
+T4A01 (D)
+What must be considered to determine the minimum current capacity needed for a transceiver power supply?
+A. Efficiency of the transmitter at full power output
+B. Receiver and control circuit power
+C. Power supply regulation and heat dissipation
+D. All of these choices are correct

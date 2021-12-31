@@ -1,0 +1,7 @@
+
+T1F01 (B) [97.103(c)]
+When must the station licensee make the station and its records available for FCC inspection?
+A. At any time ten days after notification by the FCC of such an inspection
+B. At any time upon request by an FCC representative
+C. Only after failing to comply with an FCC notice of violation
+D. Only when presented with a valid warrant by an FCC official or government agent

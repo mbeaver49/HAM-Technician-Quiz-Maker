@@ -1,0 +1,7 @@
+
+T6A11 (B)
+Which of the following battery types is not rechargeable?
+A. Nickel-cadmium
+B. Carbon-zinc
+C. Lead-acid
+D. Lithium-ion

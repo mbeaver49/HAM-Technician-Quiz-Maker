@@ -1,0 +1,7 @@
+
+T0A08 (A)
+What safety equipment should always be included in home-built equipment that is powered from 120V AC power circuits?
+A. A fuse or circuit breaker in series with the AC hot conductor
+B. An AC voltmeter across the incoming power source
+C. An inductor in parallel with the AC power source
+D. A capacitor in series with the AC power source

@@ -1,0 +1,7 @@
+
+T6B09 (C)
+What are the names of the two electrodes of a diode?
+A. Plus and minus
+B. Source and drain
+C. Anode and cathode
+D. Gate and base

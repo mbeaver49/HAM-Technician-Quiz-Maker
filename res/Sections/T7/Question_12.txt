@@ -1,0 +1,7 @@
+
+T7B01 (D)
+What can you do if you are told your FM handheld or mobile transceiver is over-deviating?
+A. Talk louder into the microphone
+B. Let the transceiver cool off
+C. Change to a higher power level
+D. Talk farther away from the microphone

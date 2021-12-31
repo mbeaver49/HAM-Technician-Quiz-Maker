@@ -1,0 +1,8 @@
+
+T7D10 (B)
+What is probably happening when an ohmmeter, connected across an unpowered circuit, initially indicates a low
+resistance and then shows increasing resistance with time?
+A. The ohmmeter is defective
+B. The circuit contains a large capacitor
+C. The circuit contains a large inductor
+D. The circuit is a relaxation oscillator

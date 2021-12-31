@@ -1,0 +1,7 @@
+
+T4B10 (A)
+Which of the following is an appropriate receive filter bandwidth for minimizing noise and interference for CW reception?
+A. 500 Hz
+B. 1000 Hz
+C. 2400 Hz
+D. 5000 Hz

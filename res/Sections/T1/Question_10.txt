@@ -1,0 +1,8 @@
+
+T1A10 (D) [97.3(a)(38), 97.407]
+Which of the following describes the Radio Amateur Civil Emergency Service (RACES)?
+A. A radio service using amateur frequencies for emergency management or civil defense communications
+B. A radio service using amateur stations for emergency management or civil defense communications
+C. An emergency service using amateur operators certified by a civil defense organization as being enrolled in that
+organization
+D. All of these choices are correct

@@ -1,0 +1,7 @@
+
+T1D07 (B) [97.113(d)]
+What types of amateur stations can automatically retransmit the signals of other amateur stations?
+A. Auxiliary, beacon, or Earth stations
+B. Repeater, auxiliary, or space stations
+C. Beacon, repeater, or space stations
+D. Earth, repeater, or space stations

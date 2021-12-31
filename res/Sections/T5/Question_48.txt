@@ -1,0 +1,7 @@
+
+T5D15 (C)
+What is the voltage across each of two components in series with a voltage source?
+A. The same voltage as the source
+B. Half the source voltage
+C. It is determined by the type and value of the components
+D. Twice the source voltage

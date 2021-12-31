@@ -1,0 +1,7 @@
+
+T5D09 (C)
+What is the current through a 24-ohm resistor connected across 240 volts?
+A. 24,000 amperes
+B. 0.1 amperes
+C. 10 amperes
+D. 216 amperes

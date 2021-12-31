@@ -1,0 +1,7 @@
+
+T6A08 (B)
+What electrical component is used to connect or disconnect electrical circuits?
+A. Magnetron
+B. Switch
+C. Thermistor
+D. All of these choices are correct

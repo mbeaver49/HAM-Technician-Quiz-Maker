@@ -1,0 +1,7 @@
+
+T8B02 (B)
+What is the impact of using too much effective radiated power on a satellite uplink?
+A. Possibility of commanding the satellite to an improper mode
+B. Blocking access by other users
+C. Overloading the satellite batteries
+D. Possibility of rebooting the satellite control computer

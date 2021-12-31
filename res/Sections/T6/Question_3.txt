@@ -1,0 +1,7 @@
+
+T6A03 (B)
+What electrical parameter is controlled by a potentiometer?
+A. Inductance
+B. Resistance
+C. Capacitance
+D. Field strength

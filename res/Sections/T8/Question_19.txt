@@ -1,0 +1,7 @@
+
+T8B08 (B)
+What is meant by the statement that a satellite is operating in mode U/V?
+A. The satellite uplink is in the 15 meter band and the downlink is in the 10 meter band
+B. The satellite uplink is in the 70 centimeter band and the downlink is in the 2 meter band
+C. The satellite operates using ultraviolet frequencies
+D. The satellite frequencies are usually variable

@@ -1,0 +1,7 @@
+
+T7D04 (D)
+Which instrument is used to measure electric current?
+A. An ohmmeter
+B. A wavemeter
+C. A voltmeter
+D. An ammeter

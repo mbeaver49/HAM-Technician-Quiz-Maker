@@ -1,0 +1,7 @@
+
+T6A09 (A)
+What electrical component is used to protect other circuit components from current overloads?
+A. Fuse
+B. Capacitor
+C. Inductor
+D. All of these choices are correct

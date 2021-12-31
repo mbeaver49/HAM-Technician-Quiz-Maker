@@ -1,0 +1,7 @@
+
+T0A10 (A)
+What can happen if a lead-acid storage battery is charged or discharged too quickly?
+A. The battery could overheat, give off flammable gas, or explode
+B. The voltage can become reversed
+C. The memory effect will reduce the capacity of the battery
+D. All of these choices are correct

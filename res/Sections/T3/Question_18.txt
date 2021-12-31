@@ -1,0 +1,7 @@
+
+T3B05 (B)
+How does the wavelength of a radio wave relate to its frequency?
+A. The wavelength gets longer as the frequency increases
+B. The wavelength gets shorter as the frequency increases
+C. There is no relationship between wavelength and frequency
+D. The wavelength depends on the bandwidth of the signal

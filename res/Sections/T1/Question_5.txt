@@ -1,0 +1,8 @@
+
+T1A05 (C) [97.7]
+What is proof of possession of an FCC-issued operator/primary license grant?
+A. A printed operator/primary station license issued by the FCC must be displayed at the transmitter site
+B. The control operator must have an operator/primary station license in his or her possession when in control of a
+transmitter
+C. The control operator's operator/primary station license must appear in the FCC ULS consolidated licensee database
+D. All of these choices are correct

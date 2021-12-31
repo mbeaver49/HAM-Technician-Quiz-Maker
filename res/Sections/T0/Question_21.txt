@@ -1,0 +1,7 @@
+
+T0B10 (C)
+Which of the following is true when installing grounding conductors used for lightning protection?
+A. Only non-insulated wire must be used
+B. Wires must be carefully routed with precise right-angle bends
+C. Sharp bends must be avoided
+D. Common grounds must be avoided

@@ -1,0 +1,7 @@
+
+T7C03 (A)
+What, in general terms, is standing wave ratio (SWR)?
+A. A measure of how well a load is matched to a transmission line
+B. The ratio of high to low impedance in a feed line
+C. The transmitter efficiency ratio
+D. An indication of the quality of your station’s ground connection

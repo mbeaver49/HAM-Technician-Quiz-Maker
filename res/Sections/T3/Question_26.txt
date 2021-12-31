@@ -1,0 +1,7 @@
+
+T3C02 (C)
+Which of the following is an advantage of HF vs VHF and higher frequencies?
+A. HF antennas are generally smaller
+B. HF accommodates wider bandwidth signals
+C. Long distance ionospheric propagation is far more common on HF
+D. There is less atmospheric interference (static) on HF

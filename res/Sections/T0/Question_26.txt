@@ -1,0 +1,7 @@
+
+T0C02 (B)
+Which of the following frequencies has the lowest value for Maximum Permissible Exposure limit?
+A. 3.5 MHz
+B. 50 MHz
+C. 440 MHz
+D. 1296 MHz

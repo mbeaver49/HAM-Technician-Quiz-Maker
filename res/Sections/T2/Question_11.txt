@@ -1,0 +1,7 @@
+
+T2B01 (C)
+What is the most common use of the “reverse split” function of a VHF/UHF transceiver?
+A. Reduce power output
+B. Increase power output
+C. Listen on a repeater’s input frequency
+D. Listen on a repeater’s output frequency

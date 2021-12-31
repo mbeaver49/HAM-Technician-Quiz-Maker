@@ -1,0 +1,7 @@
+
+T7D05 (D)
+What instrument is used to measure resistance?
+A. An oscilloscope
+B. A spectrum analyzer
+C. A noise bridge
+D. An ohmmeter

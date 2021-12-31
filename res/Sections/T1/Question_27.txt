@@ -1,0 +1,7 @@
+
+T1C04 (A) [97.107]
+When are you allowed to operate your amateur station in a foreign country?
+A. When the foreign country authorizes it
+B. When there is a mutual agreement allowing third party communications
+C. When authorization permits amateur communications in a foreign language
+D. When you are communicating with non-licensed individuals in another country

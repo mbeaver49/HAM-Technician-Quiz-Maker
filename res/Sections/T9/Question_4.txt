@@ -1,0 +1,8 @@
+
+T9A04 (A)
+What is a disadvantage of the “rubber duck” antenna supplied with most handheld radio transceivers when compared to a
+full-sized quarter-wave antenna?
+A. It does not transmit or receive as effectively
+B. It transmits only circularly polarized signals
+C. If the rubber end cap is lost, it will unravel very easily
+D. All of these choices are correct

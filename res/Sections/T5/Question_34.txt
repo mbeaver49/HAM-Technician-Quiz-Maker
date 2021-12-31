@@ -1,0 +1,7 @@
+
+T5D01 (B)
+What formula is used to calculate current in a circuit?
+A. Current (I) equals voltage (E) multiplied by resistance (R)
+B. Current (I) equals voltage (E) divided by resistance (R)
+C. Current (I) equals voltage (E) added to resistance (R)
+D. Current (I) equals voltage (E) minus resistance (R)

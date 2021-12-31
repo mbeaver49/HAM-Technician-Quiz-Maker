@@ -1,0 +1,7 @@
+
+T9A01 (C)
+What is a beam antenna?
+A. An antenna built from aluminum I-beams
+B. An omnidirectional antenna invented by Clarence Beam
+C. An antenna that concentrates signals in one direction
+D. An antenna that reverses the phase of received signals

@@ -1,0 +1,7 @@
+
+T1A04 (A) [97.5(b)(1)]
+How many operator/primary station license grants may be held by any one person?
+A. One
+B. No more than two
+C. One for each band on which the person plans to operate
+D. One for each permanent station location from which the person plans to operate

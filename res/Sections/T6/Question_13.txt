@@ -1,0 +1,7 @@
+
+T6B02 (C)
+What electronic component allows current to flow in only one direction?
+A. Resistor
+B. Fuse
+C. Diode
+D. Driven element

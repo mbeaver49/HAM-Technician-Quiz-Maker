@@ -1,0 +1,7 @@
+
+T9B03 (A)
+Why is coaxial cable the most common feed line selected for amateur radio antenna systems?
+A. It is easy to use and requires few special installation considerations
+B. It has less loss than any other type of feed line
+C. It can handle more power than any other type of feed line
+D. It is less expensive than any other type of feed line

@@ -1,0 +1,7 @@
+
+T2C09 (D)
+Are amateur station control operators ever permitted to operate outside the frequency privileges of their license class?
+A. No
+B. Yes, but only when part of a FEMA emergency plan
+C. Yes, but only when part of a RACES emergency plan
+D. Yes, but only if necessary in situations involving the immediate safety of human life or protection of property

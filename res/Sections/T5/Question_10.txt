@@ -1,0 +1,7 @@
+
+T5A11 (A)
+What is the unit of electromotive force?
+A. The volt
+B. The watt
+C. The ampere
+D. The ohm

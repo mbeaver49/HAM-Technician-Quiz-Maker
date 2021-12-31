@@ -1,0 +1,7 @@
+
+T9A09 (C)
+What is the approximate length, in inches, of a half-wavelength 6 meter dipole antenna?
+A. 6
+B. 50
+C. 112
+D. 236

@@ -1,0 +1,7 @@
+
+T4A06 (C)
+Which of the following connections might be used between a voice transceiver and a computer for digital operation?
+A. Receive and transmit mode, status, and location
+B. Antenna and RF power
+C. Receive audio, transmit audio, and push-to-talk (PTT)
+D. NMEA GPS location and DC power

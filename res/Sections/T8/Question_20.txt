@@ -1,0 +1,7 @@
+
+T8B09 (B)
+What causes spin fading of satellite signals?
+A. Circular polarized noise interference radiated from the sun
+B. Rotation of the satellite and its antennas
+C. Doppler shift of the received signal
+D. Interfering signals within the satellite uplink band

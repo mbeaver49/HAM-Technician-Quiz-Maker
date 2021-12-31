@@ -1,0 +1,7 @@
+
+T8B11 (A)
+Who may receive telemetry from a space station?
+A. Anyone who can receive the telemetry signal
+B. A licensed radio amateur with a transmitter equipped for interrogating the satellite
+C. A licensed radio amateur who has been certified by the protocol developer
+D. A licensed radio amateur who has registered for an access code from AMSAT

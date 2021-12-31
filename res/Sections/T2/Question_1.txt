@@ -1,0 +1,7 @@
+
+T2A01 (B)
+Which of the following is a common repeater frequency offset in the 2 meter band?
+A. Plus or minus 5 MHz
+B. Plus or minus 600 kHz
+C. Plus or minus 500 kHz
+D. Plus or minus 1 MHz

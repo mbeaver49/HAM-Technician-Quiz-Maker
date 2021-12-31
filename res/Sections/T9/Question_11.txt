@@ -1,0 +1,7 @@
+
+T9A11 (C)
+What is the gain of an antenna?
+A. The additional power that is added to the transmitter power
+B. The additional power that is lost in the antenna when transmitting on a higher frequency
+C. The increase in signal strength in a specified direction compared to a reference antenna
+D. The increase in impedance on receive or transmit compared to a reference antenna

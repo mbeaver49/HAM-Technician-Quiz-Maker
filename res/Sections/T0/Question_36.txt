@@ -1,0 +1,7 @@
+
+T0C12 (A)
+How does RF radiation differ from ionizing radiation (radioactivity)?
+A. RF radiation does not have sufficient energy to cause genetic damage
+B. RF radiation can only be detected with an RF dosimeter
+C. RF radiation is limited in range to a few feet
+D. RF radiation is perfectly safe

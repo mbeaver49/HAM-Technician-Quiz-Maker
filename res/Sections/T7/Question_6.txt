@@ -1,0 +1,7 @@
+
+T7A06 (C)
+What device converts the RF input and output of a transceiver to another band?
+A. High-pass filter
+B. Low-pass filter
+C. Transverter
+D. Phase converter

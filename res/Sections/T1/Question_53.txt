@@ -1,0 +1,7 @@
+
+T1E08 (A) [97.3(a)(6), 97.205(d)]
+Which of the following is an example of automatic control?
+A. Repeater operation
+B. Controlling the station over the internet
+C. Using a computer or other device to send CW automatically
+D. Using a computer or other device to identify automatically

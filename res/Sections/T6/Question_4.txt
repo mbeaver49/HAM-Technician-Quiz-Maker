@@ -1,0 +1,7 @@
+
+T6A04 (B)
+What electrical component stores energy in an electric field?
+A. Resistor
+B. Capacitor
+C. Inductor
+D. Diode

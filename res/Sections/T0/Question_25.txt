@@ -1,0 +1,7 @@
+
+T0C01 (D)
+What type of radiation are VHF and UHF radio signals?
+A. Gamma radiation
+B. Ionizing radiation
+C. Alpha radiation
+D. Non-ionizing radiation

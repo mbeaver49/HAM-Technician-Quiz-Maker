@@ -1,0 +1,7 @@
+
+T0C11 (C)
+What is the definition of duty cycle during the averaging time for RF exposure?
+A. The difference between the lowest power output and the highest power output of a transmitter
+B. The difference between the PEP and average power output of a transmitter
+C. The percentage of time that a transmitter is transmitting
+D. The percentage of time that a transmitter is not transmitting

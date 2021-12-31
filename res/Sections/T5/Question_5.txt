@@ -1,0 +1,7 @@
+
+T5A06 (A)
+How much voltage does a mobile transceiver typically require?
+A. About 12 volts
+B. About 30 volts
+C. About 120 volts
+D. About 240 volts

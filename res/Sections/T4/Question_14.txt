@@ -1,0 +1,7 @@
+
+T4B03 (D)
+What is the purpose of the squelch control on a transceiver?
+A. To set the highest level of volume desired
+B. To set the transmitter power level
+C. To adjust the automatic gain control
+D. To mute receiver output noise when no signal is being received

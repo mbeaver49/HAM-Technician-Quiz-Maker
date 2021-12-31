@@ -1,0 +1,14 @@
+
+T8B12 (C)
+Which of the following is a good way to judge whether your uplink power is neither too low nor too high?
+A. Check your signal strength report in the telemetry data
+B. Listen for distortion on your downlink signal
+C. Your signal strength on the downlink should be about the same as the beacon
+D. All of these choices are correct
+~
+T8C01 (C)
+Which of the following methods is used to locate sources of noise interference or jamming?
+A. Echolocation
+B. Doppler radar
+C. Radio direction finding
+D. Phase locking

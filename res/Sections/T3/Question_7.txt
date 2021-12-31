@@ -1,0 +1,7 @@
+
+T3A07 (A)
+What type of wave carries radio signals between transmitting and receiving stations?
+A. Electromagnetic
+B. Electrostatic
+C. Surface acoustic
+D. Ferromagnetic

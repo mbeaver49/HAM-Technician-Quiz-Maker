@@ -1,0 +1,7 @@
+
+T8D13 (B)
+What is FT8?
+A. A wideband FM voice mode
+B. A digital mode capable of operating in low signal-to-noise conditions that transmits on 15-second intervals
+C. An eight channel multiplex mode for FM repeaters
+D. A digital slow scan TV mode with forward error correction and automatic color compensation

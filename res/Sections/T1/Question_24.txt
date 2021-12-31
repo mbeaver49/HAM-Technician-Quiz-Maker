@@ -1,0 +1,7 @@
+
+T1C01 (D) [97.9(a), 97.17(a)]
+For which license classes are new licenses currently available from the FCC?
+A. Novice, Technician, General, Advanced
+B. Technician, Technician Plus, General, Advanced
+C. Novice, Technician Plus, General, Advanced
+D. Technician, General, Amateur Extra

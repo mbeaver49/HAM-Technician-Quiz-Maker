@@ -1,0 +1,8 @@
+
+T1D08 (B) [97.113(a)(3)(iii)]
+In which of the following circumstances may the control operator of an amateur station receive compensation for operating
+that station?
+A. When the communication is related to the sale of amateur equipment by the control operator's employer
+B. When the communication is incidental to classroom instruction at an educational institution
+C. When the communication is made to obtain emergency information for a local broadcast station
+D. All of these choices are correct

@@ -1,0 +1,7 @@
+
+T0C04 (D)
+What factors affect the RF exposure of people near an amateur station antenna?
+A. Frequency and power level of the RF field
+B. Distance from the antenna to a person
+C. Radiation pattern of the antenna
+D. All of these choices are correct

@@ -1,0 +1,7 @@
+
+T1D06 (B) [97.113(a)(4)]
+What, if any, are the restrictions concerning transmission of language that may be considered indecent or obscene?
+A. The FCC maintains a list of words that are not permitted to be used on amateur frequencies
+B. Any such language is prohibited
+C. The ITU maintains a list of words that are not permitted to be used on amateur frequencies
+D. There is no such prohibition

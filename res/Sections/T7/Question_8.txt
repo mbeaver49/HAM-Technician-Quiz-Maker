@@ -1,0 +1,7 @@
+
+T7A08 (C)
+Which of the following describes combining speech with an RF carrier signal?
+A. Impedance matching
+B. Oscillation
+C. Modulation
+D. Low-pass filtering

@@ -1,0 +1,7 @@
+
+T6B04 (B)
+Which of the following components can consist of three layers of semiconductor material?
+A. Alternator
+B. Transistor
+C. Triode
+D. Pentagrid converter

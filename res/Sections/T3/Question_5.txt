@@ -1,0 +1,8 @@
+
+T3A05 (B)
+When using a directional antenna, how might your station be able to access a distant repeater if buildings or obstructions
+are blocking the direct line of sight path?
+A. Change from vertical to horizontal polarization
+B. Try to find a path that reflects signals to the repeater
+C. Try the long path
+D. Increase the antenna SWR

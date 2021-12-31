@@ -1,0 +1,7 @@
+
+T0A05 (C)
+Why is it unwise to install a 20-ampere fuse in the place of a 5-ampere fuse?
+A. The larger fuse would be likely to blow because it is rated for higher current
+B. The power supply ripple would greatly increase
+C. Excessive current could cause a fire
+D. All of these choices are correct

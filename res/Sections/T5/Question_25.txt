@@ -1,0 +1,7 @@
+
+T5C06 (A)
+What does the abbreviation “RF” refer to?
+A. Radio frequency signals of all types
+B. The resonant frequency of a tuned circuit
+C. The real frequency transmitted as opposed to the apparent frequency
+D. Reflective force in antenna transmission lines

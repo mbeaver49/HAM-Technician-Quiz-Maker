@@ -1,0 +1,8 @@
+
+T8C08 (A)
+What is the Internet Radio Linking Project (IRLP)?
+A. A technique to connect amateur radio systems, such as repeaters, via the internet using Voice Over Internet Protocol
+(VoIP)
+B. A system for providing access to websites via amateur radio
+C. A system for informing amateurs in real time of the frequency of active DX stations
+D. A technique for measuring signal strength of an amateur transmitter via the internet

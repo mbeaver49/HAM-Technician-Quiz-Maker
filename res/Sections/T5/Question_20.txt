@@ -1,0 +1,8 @@
+
+T5B07 (C)
+If a frequency display calibrated in megahertz shows a reading of 3.525 MHz, what would it show if it were calibrated in
+kilohertz?
+A. 0.003525 kHz
+B. 35.25 kHz
+C. 3525 kHz
+D. 3,525,000 kHz

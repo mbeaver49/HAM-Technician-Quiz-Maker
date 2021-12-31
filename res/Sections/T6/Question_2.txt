@@ -1,0 +1,7 @@
+
+T6A02 (C)
+What type of component is often used as an adjustable volume control?
+A. Fixed resistor
+B. Power resistor
+C. Potentiometer
+D. Transformer

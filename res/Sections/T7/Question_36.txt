@@ -1,0 +1,7 @@
+
+T7D01 (B)
+Which instrument would you use to measure electric potential or electromotive force?
+A. An ammeter
+B. A voltmeter
+C. A wavemeter
+D. An ohmmeter

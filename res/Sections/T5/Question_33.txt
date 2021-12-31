@@ -1,0 +1,7 @@
+
+T5C14 (D)
+What is the proper abbreviation for megahertz?
+A. mHz
+B. mhZ
+C. Mhz
+D. MHz

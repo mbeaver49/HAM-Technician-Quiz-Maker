@@ -1,0 +1,7 @@
+
+T7B02 (A)
+What would cause a broadcast AM or FM radio to receive an amateur radio transmission unintentionally?
+A. The receiver is unable to reject strong signals outside the AM or FM band
+B. The microphone gain of the transmitter is turned up too high
+C. The audio amplifier of the transmitter is overloaded
+D. The deviation of an FM transmitter is set too low

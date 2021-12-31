@@ -1,0 +1,7 @@
+
+T8B05 (D)
+What is a satellite beacon?
+A. The primary transmit antenna on the satellite
+B. An indicator light that shows where to point your antenna
+C. A reflective surface on the satellite
+D. A transmission from a satellite that contains status information

@@ -1,0 +1,7 @@
+
+T7D02 (B)
+What is the correct way to connect a voltmeter to a circuit?
+A. In series with the circuit
+B. In parallel with the circuit
+C. In quadrature with the circuit
+D. In phase with the circuit

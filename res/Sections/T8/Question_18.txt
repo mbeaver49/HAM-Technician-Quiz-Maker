@@ -1,0 +1,7 @@
+
+T8B07 (C)
+With regard to satellite communications, what is Doppler shift?
+A. A change in the satellite orbit
+B. A mode where the satellite receives signals on one band and transmits on another
+C. An observed change in signal frequency caused by relative motion between the satellite and the earth station
+D. A special digital communications mode for some satellites

@@ -1,0 +1,7 @@
+
+T3A10 (D)
+What may occur if data signals arrive via multiple paths?
+A. Transmission rates can be increased by a factor equal to the number of separate paths observed
+B. Transmission rates must be decreased by a factor equal to the number of separate paths observed
+C. No significant changes will occur if the signals are transmitted using FM
+D. Error rates are likely to increase

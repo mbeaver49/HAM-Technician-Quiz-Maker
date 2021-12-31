@@ -1,0 +1,7 @@
+
+T1A09 (C) [97.3(a)(22)]
+Who selects a Frequency Coordinator?
+A. The FCC Office of Spectrum Management and Coordination Policy
+B. The local chapter of the Office of National Council of Independent Frequency Coordinators
+C. Amateur operators in a local or regional area whose stations are eligible to be repeater or auxiliary stations
+D. FCC Regional Field Office

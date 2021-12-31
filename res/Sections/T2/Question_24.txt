@@ -1,0 +1,7 @@
+
+T2B14 (A)
+Which of the following describes a linked repeater network?
+A. A network of repeaters where signals received by one repeater are repeated by all the repeaters
+B. A repeater with more than one receiver
+C. Multiple repeaters with the same owner
+D. A system of repeaters linked by APRS

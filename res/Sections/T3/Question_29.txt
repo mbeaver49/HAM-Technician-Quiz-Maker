@@ -1,0 +1,8 @@
+
+T3C05 (A)
+Which of the following effects might cause radio signals to be heard despite obstructions between the transmitting and
+receiving stations?
+A. Knife-edge diffraction
+B. Faraday rotation
+C. Quantum tunneling
+D. Doppler shift

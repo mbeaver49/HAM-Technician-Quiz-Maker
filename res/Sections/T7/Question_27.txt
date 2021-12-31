@@ -1,0 +1,7 @@
+
+T7C04 (C)
+What reading on an SWR meter indicates a perfect impedance match between the antenna and the feed line?
+A. 2 to 1
+B. 1 to 3
+C. 1 to 1
+D. 10 to 1

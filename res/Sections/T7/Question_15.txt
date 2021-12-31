@@ -1,0 +1,7 @@
+
+T7B04 (D)
+Which of the following is a way to reduce or eliminate interference from an amateur transmitter to a nearby telephone?
+A. Put a filter on the amateur transmitter
+B. Reduce the microphone gain
+C. Reduce the SWR on the transmitter transmission line
+D. Put an RF filter on the telephone

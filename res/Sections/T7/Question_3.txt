@@ -1,0 +1,7 @@
+
+T7A03 (B)
+Which of the following is used to convert a radio signal from one frequency to another?
+A. Phase splitter
+B. Mixer
+C. Inverter
+D. Amplifier

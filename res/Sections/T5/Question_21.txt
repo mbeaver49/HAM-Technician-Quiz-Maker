@@ -1,0 +1,7 @@
+
+T5A05 (A)
+What is the electrical term for the electromotive force (EMF) that causes electron flow?
+A. Voltage
+B. Ampere-hours
+C. Capacitance
+D. Inductance

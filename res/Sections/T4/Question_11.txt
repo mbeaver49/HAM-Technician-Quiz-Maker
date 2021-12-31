@@ -1,0 +1,7 @@
+
+T4A11 (A)
+Where should the negative return connection of a mobile transceiver's power cable be connected?
+A. At the battery or engine block ground strap
+B. At the antenna mount
+C. To any metal part of the vehicle
+D. Through the transceiver’s mounting bracket

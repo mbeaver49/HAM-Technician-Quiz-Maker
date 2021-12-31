@@ -1,0 +1,7 @@
+
+T6C02 (A)
+What is component 1 in figure T1?
+A. Resistor
+B. Transistor
+C. Battery
+D. Connector

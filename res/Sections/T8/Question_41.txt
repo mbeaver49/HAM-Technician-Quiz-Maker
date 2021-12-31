@@ -1,0 +1,7 @@
+
+T8D08 (D)
+Which of the following may be included in packet transmissions?
+A. A check sum that permits error detection
+B. A header that contains the call sign of the station to which the information is being sent
+C. Automatic repeat request in case of error
+D. All of these choices are correct

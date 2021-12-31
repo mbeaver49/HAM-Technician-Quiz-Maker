@@ -1,0 +1,7 @@
+
+T9A12 (A)
+What is an advantage of using a properly mounted 5/8 wavelength antenna for VHF or UHF mobile service?
+A. It has a lower radiation angle and more gain than a 1/4 wavelength antenna
+B. It has very high angle radiation for better communicating through a repeater
+C. It eliminates distortion caused by reflected signals
+D. It has 10 times the power gain of a 1/4 wavelength design

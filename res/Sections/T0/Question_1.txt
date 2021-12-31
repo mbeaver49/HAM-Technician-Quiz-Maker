@@ -1,0 +1,7 @@
+
+T0A01 (B)
+Which of the following is a safety hazard of a 12-volt storage battery?
+A. Touching both terminals with the hands can cause electrical shock
+B. Shorting the terminals can cause burns, fire, or an explosion
+C. RF emissions from the battery
+D. All of these choices are correct

@@ -1,0 +1,7 @@
+
+T6D12 (C)
+Which of the following is a common reason to use shielded wire?
+A. To decrease the resistance of DC power connections
+B. To increase the current carrying capability of the wire
+C. To prevent coupling of unwanted signals to or from the wire
+D. To couple the wire to other signals

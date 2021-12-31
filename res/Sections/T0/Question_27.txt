@@ -1,0 +1,8 @@
+
+T0C03 (C)
+What is the maximum power level that an amateur radio station may use at VHF frequencies before an RF exposure
+evaluation is required?
+A. 1500 watts PEP transmitter output
+B. 1 watt forward power
+C. 50 watts PEP at the antenna
+D. 50 watts PEP reflected power

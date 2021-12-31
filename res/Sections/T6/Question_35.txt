@@ -1,0 +1,7 @@
+
+T6D07 (A)
+Which of the following is commonly used as a visual indicator?
+A. LED
+B. FET
+C. Zener diode
+D. Bipolar transistor

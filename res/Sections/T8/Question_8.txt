@@ -1,0 +1,7 @@
+
+T8A08 (B)
+What is the approximate bandwidth of a single sideband (SSB) voice signal?
+A. 1 kHz
+B. 3 kHz
+C. 6 kHz
+D. 15 kHz

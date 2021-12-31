@@ -1,0 +1,7 @@
+
+T2C10 (D)
+What information is contained in the preamble of a formal traffic message?
+A. The email address of the originating station
+B. The address of the intended recipient
+C. The telephone number of the addressee
+D. The information needed to track the message

@@ -1,0 +1,7 @@
+
+T7B07 (D)
+Which of the following can reduce overload to a VHF transceiver from a nearby FM broadcast station?
+A. RF preamplifier
+B. Double-shielded coaxial cable
+C. Using headphones instead of the speaker
+D. Band-reject filter

@@ -1,0 +1,7 @@
+
+T7C08 (D)
+What instrument other than an SWR meter could you use to determine if a feed line and antenna are properly matched?
+A. Voltmeter
+B. Ohmmeter
+C. Iambic pentameter
+D. Directional wattmeter

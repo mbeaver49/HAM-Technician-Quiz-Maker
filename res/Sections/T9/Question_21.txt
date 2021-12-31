@@ -1,0 +1,7 @@
+
+T9B09 (B)
+What can cause erratic changes in SWR readings?
+A. The transmitter is being modulated
+B. A loose connection in an antenna or a feed line
+C. The transmitter is being over-modulated
+D. Interference from other stations is distorting your signal

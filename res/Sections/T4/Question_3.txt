@@ -1,0 +1,7 @@
+
+T4A03 (A)
+Why should wiring between the power source and radio be heavy-gauge wire and kept as short as possible?
+A. To avoid voltage falling below that needed for proper operation
+B. To provide a good counterpoise for the antenna
+C. To avoid RF interference
+D. All of these choices are correct

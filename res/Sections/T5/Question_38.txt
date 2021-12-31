@@ -1,0 +1,7 @@
+
+T5D05 (C)
+What is the resistance in a circuit for which the applied voltage is 12 volts and the current flow is 1.5 amperes?
+A. 18 ohms
+B. 0.125 ohms
+C. 8 ohms
+D. 13.5 ohms

@@ -1,0 +1,7 @@
+
+T6A06 (C)
+What type of electrical component stores energy in a magnetic field?
+A. Resistor
+B. Capacitor
+C. Inductor
+D. Diode

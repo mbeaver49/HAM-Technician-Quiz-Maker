@@ -1,0 +1,7 @@
+
+T2C02 (B)
+What is meant by the term "NCS" used in net operation?
+A. Nominal Control System
+B. Net Control Station
+C. National Communications Standard
+D. Normal Communications Syntax

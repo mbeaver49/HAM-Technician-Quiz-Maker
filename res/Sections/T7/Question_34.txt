@@ -1,0 +1,7 @@
+
+T7C11 (C)
+What is a disadvantage of air core coaxial cable when compared to foam or solid dielectric types?
+A. It has more loss per foot
+B. It cannot be used for VHF or UHF antennas
+C. It requires special techniques to prevent water absorption
+D. It cannot be used at below freezing temperatures

@@ -1,0 +1,7 @@
+
+T5D04 (B)
+What is the resistance of a circuit in which a current of 3 amperes flows through a resistor connected to 90 volts?
+A. 3 ohms
+B. 30 ohms
+C. 93 ohms
+D. 270 ohms

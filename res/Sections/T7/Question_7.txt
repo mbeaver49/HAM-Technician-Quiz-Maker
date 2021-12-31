@@ -1,0 +1,7 @@
+
+T7A07 (D)
+What is meant by “PTT”?
+A. Pre-transmission tuning to reduce transmitter harmonic emission
+B. Precise tone transmissions used to limit repeater access to only certain signals
+C. A primary transformer tuner use to match antennas
+D. The push-to-talk function that switches between receive and transmit

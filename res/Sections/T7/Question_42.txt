@@ -1,0 +1,7 @@
+
+T7D07 (D)
+Which of the following measurements are commonly made using a multimeter?
+A. SWR and RF power
+B. Signal strength and noise
+C. Impedance and reactance
+D. Voltage and resistance

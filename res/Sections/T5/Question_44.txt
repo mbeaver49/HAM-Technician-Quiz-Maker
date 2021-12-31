@@ -1,0 +1,7 @@
+
+T5D11 (B)
+What is the voltage across a 10-ohm resistor if a current of 1 ampere flows through it?
+A. 1 volt
+B. 10 volts
+C. 11 volts
+D. 9 volts

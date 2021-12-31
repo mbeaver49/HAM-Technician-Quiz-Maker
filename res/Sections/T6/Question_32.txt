@@ -1,0 +1,5 @@
+
+T6C10 (D)
+What is component 3 in figure T3?
+A. Connector
+B. Meter

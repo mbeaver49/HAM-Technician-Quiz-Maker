@@ -1,0 +1,7 @@
+
+T5D13 (B)
+What happens to current at the junction of two components in series?
+A. It divides equally between them
+B. It is unchanged
+C. It divides based on the on the value of the components
+D. The current in the second component is zero

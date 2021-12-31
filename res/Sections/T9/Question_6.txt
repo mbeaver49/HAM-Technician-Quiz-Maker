@@ -1,0 +1,7 @@
+
+T9A06 (C)
+What type of antennas are the quad, Yagi, and dish?
+A. Non-resonant antennas
+B. Log periodic antennas
+C. Directional antennas
+D. Isotropic antennas

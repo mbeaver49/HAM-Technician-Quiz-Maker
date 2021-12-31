@@ -1,0 +1,7 @@
+
+T2B06 (A)
+What type of tones are used to control repeaters linked by the Internet Relay Linking Project (IRLP) protocol?
+A. DTMF
+B. CTCSS
+C. EchoLink
+D. Sub-audible

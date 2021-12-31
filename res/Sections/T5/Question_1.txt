@@ -1,0 +1,7 @@
+
+T5A01 (D)
+Electrical current is measured in which of the following units?
+A. Volts
+B. Watts
+C. Ohms
+D. Amperes

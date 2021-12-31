@@ -1,0 +1,7 @@
+
+T7C09 (A)
+Which of the following is the most common cause for failure of coaxial cables?
+A. Moisture contamination
+B. Gamma rays
+C. The velocity factor exceeds 1.0
+D. Overloading

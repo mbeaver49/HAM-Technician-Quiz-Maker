@@ -1,0 +1,7 @@
+
+T3B06 (D)
+What is the formula for converting frequency to approximate wavelength in meters?
+A. Wavelength in meters equals frequency in hertz multiplied by 300
+B. Wavelength in meters equals frequency in hertz divided by 300
+C. Wavelength in meters equals frequency in megahertz divided by 300
+D. Wavelength in meters equals 300 divided by frequency in megahertz

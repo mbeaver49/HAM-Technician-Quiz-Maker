@@ -1,0 +1,7 @@
+
+T1B05 (B) [97.305(c)]
+What is the limitation for emissions on the frequencies between 219 and 220 MHz?
+A. Spread spectrum only
+B. Fixed digital message forwarding systems only
+C. Emergency traffic only
+D. Fast-scan television only

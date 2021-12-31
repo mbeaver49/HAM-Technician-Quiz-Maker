@@ -1,0 +1,8 @@
+
+T1C11 (A) [97.21(b)]
+If your license has expired and is still within the allowable grace period, may you continue to operate a transmitter on
+Amateur Radio Service frequencies?
+A. No, transmitting is not allowed until the FCC license database shows that the license has been renewed
+B. Yes, but only if you identify using the suffix GP
+C. Yes, but only during authorized nets
+D. Yes, for up to two years

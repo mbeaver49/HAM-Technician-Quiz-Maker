@@ -1,0 +1,7 @@
+
+T8A02 (A)
+What type of modulation is most commonly used for VHF packet radio transmissions?
+A. FM
+B. SSB
+C. AM
+D. PSK

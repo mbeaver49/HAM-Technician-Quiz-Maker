@@ -1,0 +1,7 @@
+
+T6B05 (A)
+Which of the following electronic components can amplify signals?
+A. Transistor
+B. Variable resistor
+C. Electrolytic capacitor
+D. Multi-cell battery

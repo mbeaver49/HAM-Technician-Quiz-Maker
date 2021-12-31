@@ -1,0 +1,8 @@
+
+T0C13 (C)
+If the averaging time for exposure is 6 minutes, how much power density is permitted if the signal is present for 3 minutes
+and absent for 3 minutes rather than being present for the entire 6 minutes?
+A. 3 times as much
+B. 1/2 as much
+C. 2 times as much
+D. There is no adjustment allowed for shorter exposure times

@@ -1,0 +1,7 @@
+
+T7B09 (A)
+What is a Part 15 device?
+A. An unlicensed device that may emit low-powered radio signals on frequencies used by a licensed service
+B. An amplifier that has been type-certified for amateur radio
+C. A device for long-distance communications using special codes sanctioned by the International Amateur Radio Union
+D. A type of test set used to determine whether a transmitter complies with FCC regulation 91.15

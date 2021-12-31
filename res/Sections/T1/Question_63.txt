@@ -1,0 +1,8 @@
+
+T1F07 (B) [97.115(a)(2)]
+Which of the following restrictions apply when a non-licensed person is allowed to speak to a foreign station using a
+station under the control of a Technician class control operator?
+A. The person must be a U.S. citizen
+B. The foreign station must be one with which the U.S. has a third-party agreement
+C. The licensed control operator must do the station identification
+D. All of these choices are correct

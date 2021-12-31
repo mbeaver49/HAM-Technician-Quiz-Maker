@@ -1,0 +1,7 @@
+
+T9A05 (C)
+How would you change a dipole antenna to make it resonant on a higher frequency?
+A. Lengthen it
+B. Insert coils in series with radiating wires
+C. Shorten it
+D. Add capacitive loading to the ends of the radiating wires

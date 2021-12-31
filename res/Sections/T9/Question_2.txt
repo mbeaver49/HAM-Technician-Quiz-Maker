@@ -1,0 +1,7 @@
+
+T9A02 (A)
+Which of the following describes a type of antenna loading?
+A. Inserting an inductor in the radiating portion of the antenna to make it electrically longer
+B. Inserting a resistor in the radiating portion of the antenna to make it resonant
+C. Installing a spring in the base of a mobile vertical antenna to make it more flexible
+D. Strengthening the radiating elements of a beam antenna to better resist wind damage

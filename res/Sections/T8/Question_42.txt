@@ -1,0 +1,7 @@
+
+T8D09 (C)
+What code is used when sending CW in the amateur bands?
+A. Baudot
+B. Hamming
+C. International Morse
+D. All of these choices are correct

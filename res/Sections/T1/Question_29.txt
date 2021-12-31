@@ -1,0 +1,7 @@
+
+T1C06 (D) [97.5(a)(2)]
+From which of the following locations may an FCC-licensed amateur station transmit?
+A. From within any country that belongs to the International Telecommunications Union
+B. From within any country that is a member of the United Nations
+C. From anywhere within International Telecommunications Union (ITU) Regions 2 and 3
+D. From any vessel or craft located in international waters and documented or registered in the United States

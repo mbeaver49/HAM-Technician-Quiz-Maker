@@ -1,0 +1,7 @@
+
+T2B09 (B)
+What is a “talk group” on a DMR digital repeater?
+A. A group of operators sharing common interests
+B. A way for groups of users to share a channel at different times without being heard by other users on the channel
+C. A protocol that increases the signal-to-noise ratio when multiple repeaters are linked together
+D. A net that meets at a particular time

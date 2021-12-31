@@ -1,0 +1,8 @@
+
+T1F02 (C) [97.119 (a)]
+When using tactical identifiers such as “Race Headquarters” during a community service net operation, how often must
+your station transmit the station’s FCC-assigned call sign?
+A. Never, the tactical call is sufficient
+B. Once during every hour
+C. At the end of each communication and every ten minutes during a communication
+D. At the end of every transmission

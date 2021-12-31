@@ -1,0 +1,7 @@
+
+T1B03 (B) [97.301(a)]
+Which frequency is within the 6 meter amateur band?
+A. 49.00 MHz
+B. 52.525 MHz
+C. 28.50 MHz
+D. 222.15 MHz

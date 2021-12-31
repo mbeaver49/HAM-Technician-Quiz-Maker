@@ -1,0 +1,7 @@
+
+T8D14 (C)
+What is an electronic keyer?
+A. A device for switching antennas from transmit to receive
+B. A device for voice activated switching from receive to transmit
+C. A device that assists in manual sending of Morse code
+D. An interlock to prevent unauthorized use of a radio

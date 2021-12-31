@@ -1,0 +1,8 @@
+
+T2B03 (B)
+If a station is not strong enough to keep a repeater’s receiver squelch open, which of the following might allow you to
+receive the station’s signal?
+A. Open the squelch on your radio
+B. Listen on the repeater input frequency
+C. Listen on the repeater output frequency
+D. Increase your transmit power

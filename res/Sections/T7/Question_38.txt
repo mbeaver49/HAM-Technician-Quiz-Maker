@@ -1,0 +1,7 @@
+
+T7D03 (A)
+How is a simple ammeter connected to a circuit?
+A. In series with the circuit
+B. In parallel with the circuit
+C. In quadrature with the circuit
+D. In phase with the circuit

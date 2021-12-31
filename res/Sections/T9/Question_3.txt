@@ -1,0 +1,7 @@
+
+T9A03 (B)
+Which of the following describes a simple dipole oriented parallel to the Earth's surface?
+A. A ground-wave antenna
+B. A horizontally polarized antenna
+C. A rhombic antenna
+D. A vertically polarized antenna

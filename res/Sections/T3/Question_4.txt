@@ -1,0 +1,8 @@
+
+T3A04 (B)
+What can happen if the antennas at opposite ends of a VHF or UHF line of sight radio link are not using the same
+polarization?
+A. The modulation sidebands might become inverted
+B. Signals could be significantly weaker
+C. Signals have an echo effect on voices
+D. Nothing significant will happen

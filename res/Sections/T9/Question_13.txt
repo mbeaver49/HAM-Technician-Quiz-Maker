@@ -1,0 +1,7 @@
+
+T9B01 (B)
+Why is it important to have low SWR when using coaxial cable feed line?
+A. To reduce television interference
+B. To reduce signal loss
+C. To prolong antenna life
+D. All of these choices are correct

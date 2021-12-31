@@ -1,0 +1,7 @@
+
+T6A07 (D)
+What electrical component usually is constructed as a coil of wire?
+A. Switch
+B. Capacitor
+C. Diode
+D. Inductor

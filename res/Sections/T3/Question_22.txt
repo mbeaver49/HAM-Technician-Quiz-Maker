@@ -1,0 +1,7 @@
+
+T3B09 (D)
+What are the frequency limits of the UHF spectrum?
+A. 30 to 300 kHz
+B. 30 to 300 MHz
+C. 300 to 3000 kHz
+D. 300 to 3000 MHz

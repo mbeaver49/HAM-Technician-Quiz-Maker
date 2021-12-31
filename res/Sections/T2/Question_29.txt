@@ -1,0 +1,7 @@
+
+T2C05 (A)
+What does the term “traffic” refer to in net operation?
+A. Formal messages exchanged by net stations
+B. The number of stations checking in and out of a net
+C. Operation by mobile or portable stations
+D. Requests to activate the net by a served agency

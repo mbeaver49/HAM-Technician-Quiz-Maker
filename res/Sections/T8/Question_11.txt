@@ -1,0 +1,7 @@
+
+T8A11 (B)
+What is the approximate maximum bandwidth required to transmit a CW signal?
+A. 2.4 kHz
+B. 150 Hz
+C. 1000 Hz
+D. 15 kHz

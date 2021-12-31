@@ -1,0 +1,7 @@
+
+T2B05 (C)
+What might be the problem if a repeater user says your transmissions are breaking up on voice peaks?
+A. You have the incorrect offset
+B. You need to talk louder
+C. You are talking too loudly
+D. Your transmit power is too high

@@ -1,0 +1,7 @@
+
+T8B01 (C)
+What telemetry information is typically transmitted by satellite beacons?
+A. The signal strength of received signals
+B. Time of day accurate to plus or minus 1/10 second
+C. Health and status of the satellite
+D. All of these choices are correct

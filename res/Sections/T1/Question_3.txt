@@ -1,0 +1,7 @@
+
+T1A03 (D) [97.119(b)(2)]
+What are the FCC rules regarding the use of a phonetic alphabet for station identification in the Amateur Radio Service?
+A. It is required when transmitting emergency messages
+B. It is prohibited
+C. It is required when in contact with foreign stations
+D. It is encouraged

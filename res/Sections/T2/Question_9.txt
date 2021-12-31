@@ -1,0 +1,7 @@
+
+T2A11 (C)
+What term describes an amateur station that is transmitting and receiving on the same frequency?
+A. Full duplex
+B. Diplex
+C. Simplex
+D. Multiplex

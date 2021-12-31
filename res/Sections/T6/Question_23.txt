@@ -1,0 +1,7 @@
+
+T6C01 (C)
+What is the name of an electrical wiring diagram that uses standard component symbols?
+A. Bill of materials
+B. Connector pinout
+C. Schematic
+D. Flow chart

@@ -1,0 +1,8 @@
+
+T1B02 (B) [97.301, 97.207(c)]
+Which amateur radio stations may make contact with an amateur radio station on the International Space Station (ISS)
+using 2 meter and 70 cm band frequencies?
+A. Only members of amateur radio clubs at NASA facilities
+B. Any amateur holding a Technician or higher-class license
+C. Only the astronaut's family members who are hams
+D. Contacts with the ISS are not permitted on amateur radio frequencies

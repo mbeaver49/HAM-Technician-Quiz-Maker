@@ -1,0 +1,7 @@
+
+T0B08 (C)
+What is considered to be a proper grounding method for a tower?
+A. A single four-foot ground rod, driven into the ground no more than 12 inches from the base
+B. A ferrite-core RF choke connected between the tower and ground
+C. Separate eight-foot long ground rods for each tower leg, bonded to the tower and each other
+D. A connection between the tower base and a cold water pipe

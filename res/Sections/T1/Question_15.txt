@@ -1,0 +1,7 @@
+
+T1B04 (A) [97.301(a)]
+Which amateur band are you using when your station is transmitting on 146.52 MHz?
+A. 2 meter band
+B. 20 meter band
+C. 14 meter band
+D. 6 meter band

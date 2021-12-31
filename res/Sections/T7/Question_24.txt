@@ -1,0 +1,7 @@
+
+T7C01 (A)
+What is the primary purpose of a dummy load?
+A. To prevent transmitting signals over the air when making tests
+B. To prevent over-modulation of a transmitter
+C. To improve the efficiency of an antenna
+D. To improve the signal-to-noise ratio of a receiver

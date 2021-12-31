@@ -1,0 +1,7 @@
+
+T7C07 (C)
+What happens to power lost in a feed line?
+A. It increases the SWR
+B. It comes back into your transmitter and could cause damage
+C. It is converted into heat
+D. It can cause distortion of your signal

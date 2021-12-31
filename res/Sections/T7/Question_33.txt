@@ -1,0 +1,7 @@
+
+T7C10 (D)
+Why should the outer jacket of coaxial cable be resistant to ultraviolet light?
+A. Ultraviolet resistant jackets prevent harmonic radiation
+B. Ultraviolet light can increase losses in the cable’s jacket
+C. Ultraviolet and RF signals can mix, causing interference
+D. Ultraviolet light can damage the jacket and allow water to enter the cable

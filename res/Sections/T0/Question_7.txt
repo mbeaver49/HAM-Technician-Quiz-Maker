@@ -1,0 +1,8 @@
+
+T0A07 (D)
+Which of these precautions should be taken when installing devices for lightning protection in a coaxial cable feed line?
+A. Include a parallel bypass switch for each protector so that it can be switched out of the circuit when running high power
+B. Include a series switch in the ground line of each protector to prevent RF overload from inadvertently damaging the
+protector
+C. Keep the ground wires from each protector separate and connected to station ground
+D. Mount all of the protectors on a metal plate that is in turn connected to an external ground rod

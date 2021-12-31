@@ -1,0 +1,7 @@
+
+T3A09 (B)
+Which of the following results from the fact that skip signals refracted from the ionosphere are elliptically polarized?
+A. Digital modes are unusable
+B. Either vertically or horizontally polarized antennas may be used for transmission or reception
+C. FM voice is unusable
+D. Both the transmitting and receiving antennas must be of the same polarization

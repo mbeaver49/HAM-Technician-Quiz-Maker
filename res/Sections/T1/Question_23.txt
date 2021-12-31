@@ -1,0 +1,8 @@
+
+T1B12 (D) [97.313(b)]
+Except for some specific restrictions, what is the maximum peak envelope power output for Technician class operators
+using frequencies above 30 MHz?
+A. 50 watts
+B. 100 watts
+C. 500 watts
+D. 1500 watts

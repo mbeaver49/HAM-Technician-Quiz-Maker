@@ -1,0 +1,7 @@
+
+T8C09 (D)
+How might you obtain a list of active nodes that use VoIP?
+A. By subscribing to an on line service
+B. From on line repeater lists maintained by the local repeater frequency coordinator
+C. From a repeater directory
+D. All of these choices are correct

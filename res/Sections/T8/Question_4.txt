@@ -1,0 +1,7 @@
+
+T8A04 (D)
+Which type of modulation is most commonly used for VHF and UHF voice repeaters?
+A. AM
+B. SSB
+C. PSK
+D. FM

@@ -1,0 +1,7 @@
+
+T3C09 (A)
+What is generally the best time for long-distance 10 meter band propagation via the F layer?
+A. From dawn to shortly after sunset during periods of high sunspot activity
+B. From shortly after sunset to dawn during periods of high sunspot activity
+C. From dawn to shortly after sunset during periods of low sunspot activity
+D. From shortly after sunset to dawn during periods of low sunspot activity

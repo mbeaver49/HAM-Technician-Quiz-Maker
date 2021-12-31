@@ -1,0 +1,7 @@
+
+T5A14 (B)
+In which type of circuit is voltage the same across all components?
+A. Series
+B. Parallel
+C. Resonant
+D. Branch

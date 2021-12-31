@@ -1,0 +1,7 @@
+
+T8A09 (C)
+What is the approximate bandwidth of a VHF repeater FM phone signal?
+A. Less than 500 Hz
+B. About 150 kHz
+C. Between 10 and 15 kHz
+D. Between 50 and 125 kHz

@@ -1,0 +1,7 @@
+
+T4A02 (D)
+How might a computer be used as part of an amateur radio station?
+A. For logging contacts and contact information
+B. For sending and/or receiving CW
+C. For generating and decoding digital signals
+D. All of these choices are correct

@@ -1,0 +1,7 @@
+
+T0B11 (B)
+Which of the following establishes grounding requirements for an amateur radio tower or antenna?
+A. FCC Part 97 Rules
+B. Local electrical codes
+C. FAA tower lighting regulations
+D. UL recommended practices

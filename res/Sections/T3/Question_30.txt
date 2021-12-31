@@ -1,0 +1,8 @@
+
+T3C06 (A)
+What mode is responsible for allowing over-the-horizon VHF and UHF communications to ranges of approximately 300
+miles on a regular basis?
+A. Tropospheric ducting
+B. D layer refraction
+C. F2 layer refraction
+D. Faraday rotation

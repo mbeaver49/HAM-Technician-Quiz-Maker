@@ -1,0 +1,7 @@
+
+T5C08 (A)
+What is the formula used to calculate electrical power in a DC circuit?
+A. Power (P) equals voltage (E) multiplied by current (I)
+B. Power (P) equals voltage (E) divided by current (I)
+C. Power (P) equals voltage (E) minus current (I)
+D. Power (P) equals voltage (E) plus current (I)

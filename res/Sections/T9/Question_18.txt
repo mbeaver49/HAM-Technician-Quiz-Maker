@@ -1,0 +1,7 @@
+
+T9B06 (B)
+Which of the following connectors is most suitable for frequencies above 400 MHz?
+A. A UHF (PL-259/SO-239) connector
+B. A Type N connector
+C. An RS-213 connector
+D. A DB-25 connector

@@ -1,0 +1,7 @@
+
+T1E10 (B) [97.3(a)(39)]
+Which of the following is an example of remote control as defined in Part 97?
+A. Repeater operation
+B. Operating the station over the internet
+C. Controlling a model aircraft, boat, or car by amateur radio
+D. All of these choices are correct

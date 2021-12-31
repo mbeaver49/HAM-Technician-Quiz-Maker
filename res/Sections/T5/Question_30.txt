@@ -1,0 +1,7 @@
+
+T5C11 (B)
+How many amperes are flowing in a circuit when the applied voltage is 12 volts DC and the load is 120 watts?
+A. 0.1 amperes
+B. 10 amperes
+C. 12 amperes
+D. 132 amperes

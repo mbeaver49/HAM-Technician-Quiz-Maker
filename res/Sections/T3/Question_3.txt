@@ -1,0 +1,8 @@
+
+T3A03 (C)
+What antenna polarization is normally used for long-distance weak-signal CW and SSB contacts using the VHF and UHF
+bands?
+A. Right-hand circular
+B. Left-hand circular
+C. Horizontal
+D. Vertical

@@ -1,0 +1,7 @@
+
+T1B09 (D) [97.101(a), 97.301(a-e)]
+Why should you not set your transmit frequency to be exactly at the edge of an amateur band or sub-band?
+A. To allow for calibration error in the transmitter frequency display
+B. So that modulation sidebands do not extend beyond the band edge
+C. To allow for transmitter frequency drift
+D. All of these choices are correct

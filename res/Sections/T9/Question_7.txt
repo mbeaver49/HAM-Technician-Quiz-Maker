@@ -1,0 +1,7 @@
+
+T9A07 (A)
+What is a disadvantage of using a handheld VHF transceiver, with its integral antenna, inside a vehicle?
+A. Signals might not propagate well due to the shielding effect of the vehicle
+B. It might cause the transceiver to overheat
+C. The SWR might decrease, decreasing the signal strength
+D. All of these choices are correct

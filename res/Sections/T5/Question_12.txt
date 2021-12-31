@@ -1,0 +1,7 @@
+
+T5A13 (A)
+In which type of circuit is current the same through all components?
+A. Series
+B. Parallel
+C. Resonant
+D. Branch

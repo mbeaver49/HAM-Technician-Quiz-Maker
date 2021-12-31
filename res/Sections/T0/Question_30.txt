@@ -1,0 +1,8 @@
+
+T0C06 (D)
+Which of the following is an acceptable method to determine that your station complies with FCC RF exposure
+regulations?
+A. By calculation based on FCC OET Bulletin 65
+B. By calculation based on computer modeling
+C. By measurement of field strength using calibrated equipment
+D. All of these choices are correct

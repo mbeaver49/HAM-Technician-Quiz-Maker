@@ -1,0 +1,7 @@
+
+T0A09 (C)
+What should be done to all external ground rods or earth connections?
+A. Waterproof them with silicone caulk or electrical tape
+B. Keep them as far apart as possible
+C. Bond them together with heavy wire or conductive strap
+D. Tune them for resonance on the lowest frequency of operation

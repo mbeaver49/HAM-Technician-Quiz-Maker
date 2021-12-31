@@ -1,0 +1,7 @@
+
+T6D08 (D)
+Which of the following is combined with an inductor to make a tuned circuit?
+A. Resistor
+B. Zener diode
+C. Potentiometer
+D. Capacitor

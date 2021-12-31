@@ -1,0 +1,7 @@
+
+T1A07 (C) [97.3(a)(41)]
+What is the FCC Part 97 definition of a space station?
+A. Any satellite orbiting the earth
+B. A manned satellite orbiting the earth
+C. An amateur station located more than 50 km above the Earth's surface
+D. An amateur station using amateur radio satellites for relay of signals

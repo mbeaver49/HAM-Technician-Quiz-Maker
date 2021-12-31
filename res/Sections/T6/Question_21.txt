@@ -1,0 +1,7 @@
+
+T6B10 (B)
+Which of the following could be the primary gain-producing component in an RF power amplifier?
+A. Transformer
+B. Transistor
+C. Reactor
+D. Resistor

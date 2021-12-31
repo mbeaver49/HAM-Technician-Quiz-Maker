@@ -1,0 +1,7 @@
+
+T7B03 (D)
+Which of the following can cause radio frequency interference?
+A. Fundamental overload
+B. Harmonics
+C. Spurious emissions
+D. All of these choices are correct

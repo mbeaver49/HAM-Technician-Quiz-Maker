@@ -1,0 +1,7 @@
+
+T8A06 (A)
+Which sideband is normally used for 10 meter HF, VHF, and UHF single-sideband communications?
+A. Upper sideband
+B. Lower sideband
+C. Suppressed sideband
+D. Inverted sideband

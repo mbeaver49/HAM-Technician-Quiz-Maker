@@ -1,0 +1,7 @@
+
+T0A04 (B)
+What is the purpose of a fuse in an electrical circuit?
+A. To prevent power supply ripple from damaging a circuit
+B. To interrupt power in case of overload
+C. To limit current to prevent shocks
+D. All of these choices are correct

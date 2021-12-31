@@ -1,0 +1,7 @@
+
+T0B12 (C)
+Which of the following is good practice when installing ground wires on a tower for lightning protection?
+A. Put a loop in the ground connection to prevent water damage to the ground system
+B. Make sure that all bends in the ground wires are clean, right-angle bends
+C. Ensure that connections are short and direct
+D. All of these choices are correct

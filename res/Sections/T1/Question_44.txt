@@ -1,0 +1,7 @@
+
+T1D10 (D) [97.3(a)(10)]
+What is the meaning of the term broadcasting in the FCC rules for the Amateur Radio Service?
+A. Two-way transmissions by amateur stations
+B. Transmission of music
+C. Transmission of messages directed only to amateur operators
+D. Transmissions intended for reception by the general public

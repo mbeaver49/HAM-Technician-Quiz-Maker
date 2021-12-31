@@ -1,0 +1,7 @@
+
+T7A02 (B)
+What is a transceiver?
+A. A type of antenna switch
+B. A unit combining the functions of a transmitter and a receiver
+C. A component in a repeater that filters out unwanted interference
+D. A type of antenna matching network

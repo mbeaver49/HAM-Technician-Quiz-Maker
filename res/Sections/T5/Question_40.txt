@@ -1,0 +1,7 @@
+
+T5D07 (D)
+What is the current in a circuit with an applied voltage of 120 volts and a resistance of 80 ohms?
+A. 9600 amperes
+B. 200 amperes
+C. 0.667 amperes
+D. 1.5 amperes

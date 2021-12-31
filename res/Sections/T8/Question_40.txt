@@ -1,0 +1,7 @@
+
+T8D07 (A)
+Which of the following best describes DMR (Digital Mobile Radio)?
+A. A technique for time-multiplexing two digital voice signals on a single 12.5 kHz repeater channel
+B. An automatic position tracking mode for FM mobiles communicating through repeaters
+C. An automatic computer logging technique for hands-off logging when communicating while operating a vehicle
+D. A digital technique for transmitting on two repeater inputs simultaneously for automatic error correction

@@ -1,0 +1,7 @@
+
+T8C02 (B)
+Which of these items would be useful for a hidden transmitter hunt?
+A. Calibrated SWR meter
+B. A directional antenna
+C. A calibrated noise bridge
+D. All of these choices are correct

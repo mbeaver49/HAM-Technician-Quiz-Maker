@@ -1,0 +1,7 @@
+
+T4B13 (C)
+Which of the following is a use for the scanning function of an FM transceiver?
+A. To check incoming signal deviation
+B. To prevent interference to nearby repeaters
+C. To scan through a range of frequencies to check for activity
+D. To check for messages left on a digital bulletin board

@@ -1,0 +1,7 @@
+
+T5D14 (A)
+What happens to current at the junction of two components in parallel?
+A. It divides between them dependent on the value of the components
+B. It is the same in both components
+C. Its value doubles
+D. Its value is halved

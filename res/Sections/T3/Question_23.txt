@@ -1,0 +1,7 @@
+
+T3B010 (C)
+What frequency range is referred to as HF?
+A. 300 to 3000 MHz
+B. 30 to 300 MHz
+C. 3 to 30 MHz
+D. 300 to 3000 kHz

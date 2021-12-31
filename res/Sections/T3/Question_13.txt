@@ -1,0 +1,7 @@
+
+T3A13 (C)
+What weather condition would decrease range at microwave frequencies?
+A. High winds
+B. Low barometric pressure
+C. Precipitation
+D. Colder temperatures

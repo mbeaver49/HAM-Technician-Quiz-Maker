@@ -1,0 +1,7 @@
+
+T9B07 (C)
+Which of the following is true of PL-259 type coax connectors?
+A. They are preferred for microwave operation
+B. They are watertight
+C. They are commonly used at HF frequencies
+D. They are a bayonet type connector

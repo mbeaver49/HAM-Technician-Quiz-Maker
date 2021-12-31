@@ -1,0 +1,7 @@
+
+T5D08 (C)
+What is the current through a 100-ohm resistor connected across 200 volts?
+A. 20,000 amperes
+B. 0.5 amperes
+C. 2 amperes
+D. 100 amperes

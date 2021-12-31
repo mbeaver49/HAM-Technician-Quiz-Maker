@@ -1,0 +1,7 @@
+
+T0C09 (B)
+How can you make sure your station stays in compliance with RF safety regulations?
+A. By informing the FCC of any changes made in your station
+B. By re-evaluating the station whenever an item of equipment is changed
+C. By making sure your antennas have low SWR
+D. All of these choices are correct

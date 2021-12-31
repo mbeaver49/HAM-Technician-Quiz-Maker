@@ -1,0 +1,7 @@
+
+T3A12 (B)
+How might fog and light rain affect radio range on the 10 meter and 6 meter bands?
+A. Fog and rain absorb these wavelength bands
+B. Fog and light rain will have little effect on these bands
+C. Fog and rain will deflect these signals
+D. Fog and rain will increase radio range

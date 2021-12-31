@@ -1,0 +1,7 @@
+
+T7C12 (B)
+What does a dummy load consist of?
+A. A high-gain amplifier and a TR switch
+B. A non-inductive resistor and a heat sink
+C. A low-voltage power supply and a DC relay
+D. A 50 ohm reactance used to terminate a transmission line

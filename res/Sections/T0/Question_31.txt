@@ -1,0 +1,7 @@
+
+T0C07 (B)
+What could happen if a person accidentally touched your antenna while you were transmitting?
+A. Touching the antenna could cause television interference
+B. They might receive a painful RF burn
+C. They might develop radiation poisoning
+D. All of these choices are correct

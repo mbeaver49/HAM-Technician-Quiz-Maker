@@ -1,0 +1,7 @@
+
+T2B13 (C)
+Where may SSB phone be used in amateur bands above 50 MHz?
+A. Only in sub-bands allocated to General class or higher licensees
+B. Only on repeaters
+C. In at least some portion of all these bands
+D. On any band as long as power is limited to 25 watts

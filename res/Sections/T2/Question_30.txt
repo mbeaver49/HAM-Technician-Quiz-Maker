@@ -1,0 +1,8 @@
+
+T2C06 (C)
+Which of the following is an accepted practice to get the immediate attention of a net control station when reporting an
+emergency?
+A. Repeat "SOS" three times followed by the call sign of the reporting station
+B. Press the push-to-talk button three times
+C. Begin your transmission by saying "Priority" or "Emergency" followed by your call sign
+D. Play a pre-recorded emergency alert tone followed by your call sign

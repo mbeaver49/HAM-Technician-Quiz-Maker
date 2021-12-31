@@ -1,0 +1,7 @@
+
+T6A05 (D)
+What type of electrical component consists of two or more conductive surfaces separated by an insulator?
+A. Resistor
+B. Potentiometer
+C. Oscillator
+D. Capacitor

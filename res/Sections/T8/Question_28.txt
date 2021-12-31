@@ -1,0 +1,7 @@
+
+T8C06 (B)
+How is access to some IRLP nodes accomplished?
+A. By obtaining a password that is sent via voice to the node
+B. By using DTMF signals
+C. By entering the proper internet password
+D. By using CTCSS tone codes

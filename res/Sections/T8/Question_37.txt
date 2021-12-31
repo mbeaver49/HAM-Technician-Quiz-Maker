@@ -1,0 +1,7 @@
+
+T8D04 (C)
+What type of transmission is indicated by the term "NTSC?"
+A. A Normal Transmission mode in Static Circuit
+B. A special mode for earth satellite uplink
+C. An analog fast scan color TV signal
+D. A frame compression scheme for TV signals

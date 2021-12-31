@@ -1,0 +1,7 @@
+
+T8C10 (D)
+What must be done before you may use the EchoLink system to communicate using a repeater?
+A. You must complete the required EchoLink training
+B. You must have purchased a license to use the EchoLink software
+C. You must be sponsored by a current EchoLink user
+D. You must register your call sign and provide proof of license

@@ -1,0 +1,7 @@
+
+T7A05 (D)
+What is the name of a circuit that generates a signal at a specific frequency?
+A. Reactance modulator
+B. Product detector
+C. Low-pass filter
+D. Oscillator

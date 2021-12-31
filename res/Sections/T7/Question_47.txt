@@ -1,0 +1,7 @@
+
+T7D12 (B)
+Which of the following precautions should be taken when measuring high voltages with a voltmeter?
+A. Ensure that the voltmeter has very low impedance
+B. Ensure that the voltmeter and leads are rated for use at the voltages to be measured
+C. Ensure that the circuit is grounded through the voltmeter
+D. Ensure that the voltmeter is set to the correct frequency

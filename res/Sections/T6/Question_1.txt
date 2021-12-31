@@ -1,0 +1,7 @@
+
+T6A01 (B)
+What electrical component opposes the flow of current in a DC circuit?
+A. Inductor
+B. Resistor
+C. Voltmeter
+D. Transformer

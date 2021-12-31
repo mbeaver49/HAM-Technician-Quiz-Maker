@@ -1,0 +1,7 @@
+
+T8A05 (C)
+Which of the following types of emission has the narrowest bandwidth?
+A. FM voice
+B. SSB voice
+C. CW
+D. Slow-scan TV

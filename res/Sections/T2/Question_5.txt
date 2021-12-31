@@ -1,0 +1,7 @@
+
+T2A07 (A)
+What is meant by "repeater offset?"
+A. The difference between a repeater’s transmit frequency and its receive frequency
+B. The repeater has a time delay to prevent interference
+C. The repeater station identification is done on a separate frequency
+D. The number of simultaneous transmit frequencies used by a repeater

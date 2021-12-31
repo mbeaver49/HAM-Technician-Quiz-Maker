@@ -1,0 +1,7 @@
+
+T2B12 (A)
+Why are simplex channels designated in the VHF/UHF band plans?
+A. So that stations within mutual communications range can communicate without tying up a repeater
+B. For contest operation
+C. For working DX only
+D. So that stations with simple transmitters can access the repeater without automated offset

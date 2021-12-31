@@ -1,0 +1,7 @@
+
+T1D04 (A) [97.113(a)(4), 97.113(c)]
+Under what conditions is an amateur station authorized to transmit music using a phone emission?
+A. When incidental to an authorized retransmission of manned spacecraft communications
+B. When the music produces no spurious emissions
+C. When the purpose is to interfere with an illegal transmission
+D. When the music is transmitted above 1280 MHz

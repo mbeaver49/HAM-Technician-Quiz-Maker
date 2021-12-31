@@ -1,0 +1,7 @@
+
+T9B11 (C)
+Which of the following types of feed line has the lowest loss at VHF and UHF?
+A. 50-ohm flexible coax
+B. Multi-conductor unbalanced cable
+C. Air-insulated hard line
+D. 75-ohm flexible coax

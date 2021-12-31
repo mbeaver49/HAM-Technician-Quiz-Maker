@@ -1,0 +1,7 @@
+
+T5C12 (A)
+What is impedance?
+A. A measure of the opposition to AC current flow in a circuit
+B. The inverse of resistance
+C. The Q or Quality Factor of a component
+D. The power handling capability of a component

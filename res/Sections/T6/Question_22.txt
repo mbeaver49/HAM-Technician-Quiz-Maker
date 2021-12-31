@@ -1,0 +1,7 @@
+
+T6B11 (A)
+What is the term that describes a device's ability to amplify a signal?
+A. Gain
+B. Forward resistance
+C. Forward voltage drop
+D. On resistance

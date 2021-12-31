@@ -1,0 +1,7 @@
+
+T7A09 (B)
+What is the function of the SSB/CW-FM switch on a VHF power amplifier?
+A. Change the mode of the transmitted signal
+B. Set the amplifier for proper operation in the selected mode
+C. Change the frequency range of the amplifier to operate in the proper portion of the band
+D. Reduce the received signal noise

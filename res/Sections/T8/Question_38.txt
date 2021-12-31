@@ -1,0 +1,7 @@
+
+T8D05 (A)
+Which of the following is an application of APRS (Automatic Packet Reporting System)?
+A. Providing real-time tactical digital communications in conjunction with a map showing the locations of stations
+B. Showing automatically the number of packets transmitted via PACTOR during a specific time interval
+C. Providing voice over internet connection between repeaters
+D. Providing information on the number of stations signed into a repeater

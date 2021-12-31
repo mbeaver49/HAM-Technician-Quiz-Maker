@@ -1,0 +1,7 @@
+
+T9A10 (C)
+In which direction does a half-wave dipole antenna radiate the strongest signal?
+A. Equally in all directions
+B. Off the ends of the antenna
+C. Broadside to the antenna
+D. In the direction of the feed line

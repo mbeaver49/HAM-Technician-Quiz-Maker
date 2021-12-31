@@ -1,0 +1,7 @@
+
+T2A05 (C)
+How should you respond to a station calling CQ?
+A. Transmit "CQ" followed by the other station’s call sign
+B. Transmit your call sign followed by the other station’s call sign
+C. Transmit the other station’s call sign followed by your call sign
+D. Transmit a signal report followed by your call sign

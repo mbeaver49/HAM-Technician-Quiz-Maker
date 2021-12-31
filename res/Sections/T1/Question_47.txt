@@ -1,0 +1,7 @@
+
+T1E02 (D) [97.301, 97.207(c)]
+Who may be the control operator of a station communicating through an amateur satellite or space station?
+A. Only an Amateur Extra Class operator
+B. A General class or higher licensee who has a satellite operator certification
+C. Only an Amateur Extra Class operator who is also an AMSAT member
+D. Any amateur whose license privileges allow them to transmit on the satellite uplink frequency

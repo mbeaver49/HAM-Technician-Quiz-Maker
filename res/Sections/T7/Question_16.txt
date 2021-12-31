@@ -1,0 +1,7 @@
+
+T7B05 (A)
+How can overload of a non-amateur radio or TV receiver by an amateur signal be reduced or eliminated?
+A. Block the amateur signal with a filter at the antenna input of the affected receiver
+B. Block the interfering signal with a filter on the amateur transmitter
+C. Switch the transmitter from FM to SSB
+D. Switch the transmitter to a narrow-band mode

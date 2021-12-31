@@ -1,0 +1,7 @@
+
+T9B04 (A)
+What is the major function of an antenna tuner (antenna coupler)?
+A. It matches the antenna system impedance to the transceiver's output impedance
+B. It helps a receiver automatically tune in weak stations
+C. It allows an antenna to be used on both transmit and receive
+D. It automatically selects the proper antenna for the frequency band being used

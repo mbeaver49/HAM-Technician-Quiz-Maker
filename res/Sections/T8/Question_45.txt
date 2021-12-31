@@ -1,0 +1,7 @@
+
+T8D12 (A)
+Which of the following best describes Broadband-Hamnet(TM), also referred to as a high-speed multi-media network?
+A. An amateur-radio-based data network using commercial Wi-Fi gear with modified firmware
+B. A wide-bandwidth digital voice mode employing DRM protocols
+C. A satellite communications network using modified commercial satellite TV hardware
+D. An internet linking protocol used to network repeaters

@@ -1,0 +1,8 @@
+
+T1B10 (D) [97.301(e), 97.305(c)]
+Which of the following HF bands have frequencies available to the Technician class operator for RTTY and data
+transmissions?
+A. 10 meter, 12 meter, 17 meter, and 40 meter bands
+B. 10 meter, 15 meter, 40 meter, and 80 meter bands
+C. 30 meter band only
+D. 10 meter band only

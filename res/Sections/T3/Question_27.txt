@@ -1,0 +1,7 @@
+
+T3C03 (B)
+What is a characteristic of VHF signals received via auroral reflection?
+A. Signals from distances of 10,000 or more miles are common
+B. The signals exhibit rapid fluctuations of strength and often sound distorted
+C. These types of signals occur only during winter nighttime hours
+D. These types of signals are generally strongest when your antenna is aimed west

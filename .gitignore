@@ -127,3 +127,13 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Scripts, Dev, & Docs folder
+scripts/
+dev/
+docs/
+res/audio
+
+# Pipfile and Pipfile.loc
+Pipfile
+Pipfile.lock

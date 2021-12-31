@@ -1,0 +1,7 @@
+
+T8C05 (A)
+What is a grid locator?
+A. A letter-number designator assigned to a geographic location
+B. A letter-number designator assigned to an azimuth and elevation
+C. An instrument for neutralizing a final amplifier
+D. An instrument for radio direction finding

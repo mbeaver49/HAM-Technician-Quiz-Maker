@@ -1,0 +1,7 @@
+
+T0A03 (C)
+In the United States, what is connected to the green wire in a three-wire electrical AC plug?
+A. Neutral
+B. Hot
+C. Equipment ground
+D. The white wire

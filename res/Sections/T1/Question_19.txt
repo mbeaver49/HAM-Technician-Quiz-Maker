@@ -1,0 +1,8 @@
+
+T1B08 (A) [97.303]
+Which of the following is a result of the fact that the Amateur Radio Service is secondary in all or portions of some
+amateur bands (such as portions of the 70 cm band)?
+A. U.S. amateurs may find non-amateur stations in those portions, and must avoid interfering with them
+B. U.S. amateurs must give foreign amateur stations priority in those portions
+C. International communications are not permitted in those portions
+D. Digital transmissions are not permitted in those portions

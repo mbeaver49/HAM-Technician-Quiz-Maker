@@ -1,0 +1,7 @@
+
+T6B06 (B)
+How is the cathode lead of a semiconductor diode often marked on the package?
+A. With the word "cathode"
+B. With a stripe
+C. With the letter C
+D. With the letter K

@@ -1,0 +1,7 @@
+
+T9B05 (D)
+In general, what happens as the frequency of a signal passing through coaxial cable is increased?
+A. The characteristic impedance decreases
+B. The loss decreases
+C. The characteristic impedance increases
+D. The loss increases

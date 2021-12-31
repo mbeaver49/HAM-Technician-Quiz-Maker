@@ -1,0 +1,7 @@
+
+T2B04 (D)
+Which of the following could be the reason you are unable to access a repeater whose output you can hear?
+A. Improper transceiver offset
+B. The repeater may require a proper CTCSS tone from your transceiver
+C. The repeater may require a proper DCS tone from your transceiver
+D. All of these choices are correct

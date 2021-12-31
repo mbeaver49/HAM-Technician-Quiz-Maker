@@ -1,0 +1,8 @@
+
+T3C11 (C)
+Why do VHF and UHF radio signals usually travel somewhat farther than the visual line of sight distance between two
+stations?
+A. Radio signals move somewhat faster than the speed of light
+B. Radio waves are not blocked by dust particles
+C. The Earth seems less curved to radio waves than to light
+D. Radio waves are blocked by dust particles

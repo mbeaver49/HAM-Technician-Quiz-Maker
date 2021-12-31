@@ -1,0 +1,7 @@
+
+T5D03 (B)
+What formula is used to calculate resistance in a circuit?
+A. Resistance (R) equals voltage (E) multiplied by current (I)
+B. Resistance (R) equals voltage (E) divided by current (I)
+C. Resistance (R) equals voltage (E) added to current (I)
+D. Resistance (R) equals voltage (E) minus current (I)

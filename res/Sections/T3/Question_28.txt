@@ -1,0 +1,8 @@
+
+T3C04 (B)
+Which of the following propagation types is most commonly associated with occasional strong over-the-horizon signals on
+the 10, 6, and 2 meter bands?
+A. Backscatter
+B. Sporadic E
+C. D layer absorption
+D. Gray-line propagation

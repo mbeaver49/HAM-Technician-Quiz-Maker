@@ -1,0 +1,7 @@
+
+T8A01 (C)
+Which of the following is a form of amplitude modulation?
+A. Spread spectrum
+B. Packet radio
+C. Single sideband
+D. Phase shift keying (PSK)

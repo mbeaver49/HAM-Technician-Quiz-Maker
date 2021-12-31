@@ -1,0 +1,7 @@
+
+T1E04 (D) [97.103(b)]
+What determines the transmitting privileges of an amateur station?
+A. The frequency authorized by the frequency coordinator
+B. The frequencies printed on the license grant
+C. The highest class of operator license held by anyone on the premises
+D. The class of operator license held by the control operator

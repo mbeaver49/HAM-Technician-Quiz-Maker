@@ -1,0 +1,7 @@
+
+T1C03 (A) [97.117]
+What types of international communications is an FCC-licensed amateur radio station permitted to make?
+A. Communications incidental to the purposes of the Amateur Radio Service and remarks of a personal character
+B. Communications incidental to conducting business or remarks of a personal nature
+C. Only communications incidental to contest exchanges, all other communications are prohibited
+D. Any communications that would be permitted by an international broadcast station

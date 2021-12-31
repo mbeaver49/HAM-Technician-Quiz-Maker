@@ -1,0 +1,7 @@
+
+T2C07 (C)
+Which of the following is an accepted practice for an amateur operator who has checked into a net?
+A. Provided that the frequency is quiet, announce the station call sign and location every 5 minutes
+B. Move 5 kHz away from the net's frequency and use high power to ask other hams to keep clear of the net frequency
+C. Remain on frequency without transmitting until asked to do so by the net control station
+D. All of these choices are correct

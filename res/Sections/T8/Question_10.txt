@@ -1,0 +1,7 @@
+
+T8A10 (B)
+What is the typical bandwidth of analog fast-scan TV transmissions on the 70 centimeter band?
+A. More than 10 MHz
+B. About 6 MHz
+C. About 3 MHz
+D. About 1 MHz

@@ -1,0 +1,7 @@
+
+T2A08 (D)
+What is the meaning of the procedural signal “CQ”?
+A. Call on the quarter hour
+B. A new antenna is being tested (no station should answer)
+C. Only the called station should transmit
+D. Calling any station

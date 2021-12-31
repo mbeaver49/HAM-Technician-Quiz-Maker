@@ -1,0 +1,7 @@
+
+T8D10 (D)
+Which of the following operating activities is supported by digital mode software in the WSJT suite?
+A. Moonbounce or Earth-Moon-Earth
+B. Weak-signal propagation beacons
+C. Meteor scatter
+D. All of these choices are correct

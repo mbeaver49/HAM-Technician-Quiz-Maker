@@ -1,0 +1,7 @@
+
+T5C04 (C)
+What is the basic unit of inductance?
+A. The coulomb
+B. The farad
+C. The henry
+D. The ohm

@@ -1,0 +1,7 @@
+
+T2A04 (B)
+What is an appropriate way to call another station on a repeater if you know the other station's call sign?
+A. Say "break, break," then say the station's call sign
+B. Say the station's call sign, then identify with your call sign
+C. Say "CQ" three times, then the other station's call sign
+D. Wait for the station to call CQ, then answer it

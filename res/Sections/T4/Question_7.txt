@@ -1,0 +1,7 @@
+
+T4A07 (C)
+How is a computer’s sound card used when conducting digital communications?
+A. The sound card communicates between the computer CPU and the video display
+B. The sound card records the audio frequency for video display
+C. The sound card provides audio to the radio's microphone input and converts received audio to digital form
+D. All of these choices are correct

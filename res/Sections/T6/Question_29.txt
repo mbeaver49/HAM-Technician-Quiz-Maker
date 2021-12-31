@@ -1,0 +1,7 @@
+
+T6C07 (D)
+What is component 8 in figure T2?
+A. Resistor
+B. Inductor
+C. Regulator IC
+D. Light emitting diode

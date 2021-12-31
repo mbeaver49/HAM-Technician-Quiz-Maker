@@ -1,0 +1,7 @@
+
+T5C03 (D)
+What is the ability to store energy in a magnetic field called?
+A. Admittance
+B. Capacitance
+C. Resistance
+D. Inductance

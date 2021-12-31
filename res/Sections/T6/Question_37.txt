@@ -1,0 +1,7 @@
+
+T6D09 (C)
+What is the name of a device that combines several semiconductors and other components into one package?
+A. Transducer
+B. Multi-pole relay
+C. Integrated circuit
+D. Transformer

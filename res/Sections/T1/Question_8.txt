@@ -1,0 +1,8 @@
+
+T1A08 (B) [97.3(a)(22)]
+Which of the following entities recommends transmit/receive channels and other parameters for auxiliary and repeater
+stations?
+A. Frequency Spectrum Manager appointed by the FCC
+B. Volunteer Frequency Coordinator recognized by local amateurs
+C. FCC Regional Field Office
+D. International Telecommunications Union

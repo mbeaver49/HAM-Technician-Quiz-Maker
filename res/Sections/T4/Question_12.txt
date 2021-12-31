@@ -1,0 +1,7 @@
+
+T4B01 (B)
+What may happen if a transmitter is operated with the microphone gain set too high?
+A. The output power might be too high
+B. The output signal might become distorted
+C. The frequency might vary
+D. The SWR might increase

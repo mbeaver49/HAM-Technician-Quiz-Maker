@@ -1,0 +1,7 @@
+
+T8D01 (D)
+Which of the following is a digital communications mode?
+A. Packet radio
+B. IEEE 802.11
+C. JT65
+D. All of these choices are correct

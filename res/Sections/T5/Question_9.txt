@@ -1,0 +1,7 @@
+
+T5A10 (C)
+Which term describes the rate at which electrical energy is used?
+A. Resistance
+B. Current
+C. Power
+D. Voltage

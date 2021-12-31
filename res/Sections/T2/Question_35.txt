@@ -1,0 +1,7 @@
+
+T2C11 (A)
+What is meant by the term “check,” in reference to a formal traffic message?
+A. The number of words or word equivalents in the text portion of the message
+B. The value of a money order attached to the message
+C. A list of stations that have relayed the message
+D. A box on the message form that indicates that the message was received and/or relayed

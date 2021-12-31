@@ -1,0 +1,7 @@
+
+T1B06 (B) [97.301(e), 97.305]
+On which HF bands does a Technician class operator have phone privileges?
+A. None
+B. 10 meter band only
+C. 80 meter, 40 meter, 15 meter and 10 meter bands
+D. 30 meter band only

@@ -1,0 +1,7 @@
+
+T6C03 (B)
+What is component 2 in figure T1?
+A. Resistor
+B. Transistor
+C. Indicator lamp
+D. Connector

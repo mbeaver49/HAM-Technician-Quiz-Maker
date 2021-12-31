@@ -1,0 +1,7 @@
+
+T8B03 (D)
+Which of the following are provided by satellite tracking programs?
+A. Maps showing the real-time position of the satellite track over the earth
+B. The time, azimuth, and elevation of the start, maximum altitude, and end of a pass
+C. The apparent frequency of the satellite transmission, including effects of Doppler shift
+D. All of these choices are correct

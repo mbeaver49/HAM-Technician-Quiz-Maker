@@ -1,0 +1,7 @@
+
+T4A05 (A)
+What is the proper location for an external SWR meter?
+A. In series with the feed line, between the transmitter and antenna
+B. In series with the station's ground
+C. In parallel with the push-to-talk line and the antenna
+D. In series with the power supply cable, as close as possible to the radio

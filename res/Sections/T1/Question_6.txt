@@ -1,0 +1,8 @@
+
+T1A06 (C) [97.3(a)(9)]
+What is the FCC Part 97 definition of a beacon?
+A. A government transmitter marking the amateur radio band edges
+B. A bulletin sent by the FCC to announce a national emergency
+C. An amateur station transmitting communications for the purposes of observing propagation or related experimental
+activities
+D. A continuous transmission of weather information authorized in the amateur bands by the National Weather Service

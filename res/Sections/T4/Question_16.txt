@@ -1,0 +1,7 @@
+
+T4B05 (C)
+Which of the following would reduce ignition interference to a receiver?
+A. Change frequency slightly
+B. Decrease the squelch setting
+C. Turn on the noise blanker
+D. Use the RIT control

@@ -1,0 +1,7 @@
+
+T5D06 (A)
+What is the resistance of a circuit that draws 4 amperes from a 12-volt source?
+A. 3 ohms
+B. 16 ohms
+C. 48 ohms
+D. 8 ohms

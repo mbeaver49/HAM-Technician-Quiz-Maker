@@ -1,0 +1,7 @@
+
+T4B12 (B)
+Which of the following could be used to remove power line noise or ignition noise?
+A. Squelch
+B. Noise blanker
+C. Notch filter
+D. All of these choices are correct

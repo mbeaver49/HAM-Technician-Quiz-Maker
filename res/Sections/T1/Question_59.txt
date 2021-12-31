@@ -1,0 +1,7 @@
+
+T1F03 (D) [97.119(a)]
+When is an amateur station required to transmit its assigned call sign?
+A. At the beginning of each contact, and every 10 minutes thereafter
+B. At least once during each transmission
+C. At least every 15 minutes during and at the end of a communication
+D. At least every 10 minutes during and at the end of a communication

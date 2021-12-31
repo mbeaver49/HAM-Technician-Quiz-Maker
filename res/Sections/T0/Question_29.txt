@@ -1,0 +1,7 @@
+
+T0C05 (D)
+Why do exposure limits vary with frequency?
+A. Lower frequency RF fields have more energy than higher frequency fields
+B. Lower frequency RF fields do not penetrate the human body
+C. Higher frequency RF fields are transient in nature
+D. The human body absorbs more RF energy at some frequencies than at others

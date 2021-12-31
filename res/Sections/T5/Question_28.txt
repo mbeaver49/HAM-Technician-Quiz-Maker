@@ -1,0 +1,7 @@
+
+T5C09 (A)
+How much power is being used in a circuit when the applied voltage is 13.8 volts DC and the current is 10 amperes?
+A. 138 watts
+B. 0.7 watts
+C. 23.8 watts
+D. 3.8 watts

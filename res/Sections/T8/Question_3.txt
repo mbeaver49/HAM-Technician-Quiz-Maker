@@ -1,0 +1,7 @@
+
+T8A03 (C)
+Which type of voice mode is most often used for long-distance (weak signal) contacts on the VHF and UHF bands?
+A. FM
+B. DRM
+C. SSB
+D. PM

@@ -1,0 +1,7 @@
+
+T0B06 (D)
+What is the minimum safe distance from a power line to allow when installing an antenna?
+A. Half the width of your property
+B. The height of the power line above ground
+C. 1/2 wavelength at the operating frequency
+D. Enough so that if the antenna falls unexpectedly, no part of it can come closer than 10 feet to the power wires

@@ -1,0 +1,7 @@
+
+T8D06 (B)
+What does the abbreviation "PSK" mean?
+A. Pulse Shift Keying
+B. Phase Shift Keying
+C. Packet Short Keying
+D. Phased Slide Keying

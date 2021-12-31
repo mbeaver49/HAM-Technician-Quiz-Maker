@@ -1,0 +1,9 @@
+
+T1D01 (A) [97.111(a)(1)]
+With which countries are FCC-licensed amateur radio stations prohibited from exchanging communications?
+A. Any country whose administration has notified the International Telecommunications Union (ITU) that it objects to such
+communications
+B. Any country whose administration has notified the American Radio Relay League (ARRL) that it objects to such
+communications
+C. Any country engaged in hostilities with another country
+D. Any country in violation of the War Powers Act of 1934

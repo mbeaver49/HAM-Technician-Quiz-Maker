@@ -1,0 +1,7 @@
+
+T6B01 (D)
+What class of electronic components uses a voltage or current signal to control current flow?
+A. Capacitors
+B. Inductors
+C. Resistors
+D. Transistors

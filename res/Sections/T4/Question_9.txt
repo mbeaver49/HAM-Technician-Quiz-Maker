@@ -1,0 +1,7 @@
+
+T4A09 (D)
+Which of the following could you use to cure distorted audio caused by RF current on the shield of a microphone cable?
+A. Band-pass filter
+B. Low-pass filter
+C. Preamplifier
+D. Ferrite choke

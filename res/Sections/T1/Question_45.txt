@@ -1,0 +1,7 @@
+
+T1D11 (D) [97.119(a)]
+When may an amateur station transmit without on-the-air identification?
+A. When the transmissions are of a brief nature to make station adjustments
+B. When the transmissions are unmodulated
+C. When the transmitted power level is below 1 watt
+D. When transmitting signals to control model craft

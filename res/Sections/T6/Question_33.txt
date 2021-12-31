@@ -1,0 +1,7 @@
+
+T6D05 (A)
+What type of circuit controls the amount of voltage from a power supply?
+A. Regulator
+B. Oscillator
+C. Filter
+D. Phase inverter

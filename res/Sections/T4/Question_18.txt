@@ -1,0 +1,7 @@
+
+T4B07 (B)
+What does the term “RIT” mean?
+A. Receiver Input Tone
+B. Receiver Incremental Tuning
+C. Rectifier Inverter Test
+D. Remote Input Transmitter

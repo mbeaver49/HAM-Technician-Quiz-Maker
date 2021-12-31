@@ -1,0 +1,7 @@
+
+T7C05 (A)
+Why do most solid-state amateur radio transmitters reduce output power as SWR increases?
+A. To protect the output amplifier transistors
+B. To comply with FCC rules on spectral purity
+C. Because power supplies cannot supply enough current at high SWR
+D. To improve the impedance match to the feed line

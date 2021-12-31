@@ -1,0 +1,7 @@
+
+T5C05 (A)
+What is the unit of frequency?
+A. Hertz
+B. Henry
+C. Farad
+D. Tesla

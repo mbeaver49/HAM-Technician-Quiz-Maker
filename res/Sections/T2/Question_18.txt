@@ -1,0 +1,7 @@
+
+T2B08 (A)
+Which of the following applies when two stations transmitting on the same frequency interfere with each other?
+A. Common courtesy should prevail, but no one has absolute right to an amateur frequency
+B. Whoever has the strongest signal has priority on the frequency
+C. Whoever has been on the frequency the longest has priority on the frequency
+D. The station that has the weakest signal has priority on the frequency

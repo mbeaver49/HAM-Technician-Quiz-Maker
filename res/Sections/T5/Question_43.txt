@@ -1,0 +1,7 @@
+
+T5D10 (A)
+What is the voltage across a 2-ohm resistor if a current of 0.5 amperes flows through it?
+A. 1 volt
+B. 0.25 volts
+C. 2.5 volts
+D. 1.5 volts

@@ -1,0 +1,7 @@
+
+T4B11 (A)
+What is the function of automatic gain control, or AGC?
+A. To keep received audio relatively constant
+B. To protect an antenna from lightning
+C. To eliminate RF on the station cabling
+D. An asymmetric goniometer control used for antenna matching

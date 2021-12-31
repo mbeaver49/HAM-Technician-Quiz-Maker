@@ -1,0 +1,7 @@
+
+T4A10 (B)
+What is the source of a high-pitched whine that varies with engine speed in a mobile transceiver’s receive audio?
+A. The ignition system
+B. The alternator
+C. The electric fuel pump
+D. Anti-lock braking system controllers

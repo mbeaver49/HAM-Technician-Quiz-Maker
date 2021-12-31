@@ -1,0 +1,8 @@
+
+T4A04 (C)
+Which computer sound card port is connected to a transceiver’s headphone or speaker output for operating digital
+modes?
+A. Headphone output
+B. Mute
+C. Microphone or line input
+D. PCI or SDI

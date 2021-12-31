@@ -1,0 +1,7 @@
+
+T1F04 (C) [97.119(b)(2)]
+Which of the following is an acceptable language to use for station identification when operating in a phone sub-band?
+A. Any language recognized by the United Nations
+B. Any language recognized by the ITU
+C. The English language
+D. English, French, or Spanish

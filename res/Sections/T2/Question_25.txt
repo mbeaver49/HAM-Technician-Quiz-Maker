@@ -1,0 +1,7 @@
+
+T2C01 (D) [97.103(a)]
+When do the FCC rules NOT apply to the operation of an amateur station?
+A. When operating a RACES station
+B. When operating under special FEMA rules
+C. When operating under special ARES rules
+D. Never, FCC rules always apply

@@ -1,0 +1,7 @@
+
+T1D03 (C) [97.211(b), 97.215(b), 97.114(a)(4)]
+When is it permissible to transmit messages encoded to hide their meaning?
+A. Only during contests
+B. Only when operating mobile
+C. Only when transmitting control commands to space stations or radio control craft
+D. Only when frequencies above 1280 MHz are used

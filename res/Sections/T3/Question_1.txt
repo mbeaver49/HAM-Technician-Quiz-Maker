@@ -1,0 +1,9 @@
+
+T3A01 (D)
+What should you do if another operator reports that your station’s 2 meter signals were strong just a moment ago, but now
+they are weak or distorted?
+A. Change the batteries in your radio to a different type
+B. Turn on the CTCSS tone
+C. Ask the other operator to adjust his squelch control
+D. Try moving a few feet or changing the direction of your antenna if possible, as reflections may be causing multi-path
+distortion.

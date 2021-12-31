@@ -1,0 +1,7 @@
+
+T7A11 (A)
+Where is an RF preamplifier installed?
+A. Between the antenna and receiver
+B. At the output of the transmitter's power amplifier
+C. Between a transmitter and antenna tuner
+D. At the receiver's audio output

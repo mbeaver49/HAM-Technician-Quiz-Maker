@@ -1,0 +1,7 @@
+
+T5B02 (A)
+What is another way to specify a radio signal frequency of 1,500,000 hertz?
+A. 1500 kHz
+B. 1500 MHz
+C. 15 GHz
+D. 150 kHz

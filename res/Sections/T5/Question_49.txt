@@ -1,0 +1,7 @@
+
+T5D16 (D)
+What is the voltage across each of two components in parallel with a voltage source?
+A. It is determined by the type and value of the components
+B. Half the source voltage
+C. Twice the source voltage
+D. The same voltage as the source

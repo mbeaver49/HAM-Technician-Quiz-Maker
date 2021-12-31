@@ -1,0 +1,7 @@
+
+T7D06 (C)
+Which of the following might damage a multimeter?
+A. Measuring a voltage too small for the chosen scale
+B. Leaving the meter in the milliamps position overnight
+C. Attempting to measure voltage when using the resistance setting
+D. Not allowing it to warm up properly

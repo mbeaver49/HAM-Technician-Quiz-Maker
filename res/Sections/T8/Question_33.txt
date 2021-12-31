@@ -1,0 +1,7 @@
+
+T8C11 (A)
+What name is given to an amateur radio station that is used to connect other amateur stations to the internet?
+A. A gateway
+B. A repeater
+C. A digipeater
+D. A beacon

@@ -1,0 +1,7 @@
+
+T8A07 (C)
+What is an advantage of single sideband (SSB) over FM for voice transmissions?
+A. SSB signals are easier to tune
+B. SSB signals are less susceptible to interference
+C. SSB signals have narrower bandwidth
+D. All of these choices are correct

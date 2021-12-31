@@ -1,0 +1,8 @@
+
+T1D02 (B) [97.113(b),97.111(b)]
+Under which of the following circumstances may an amateur radio station make one-way transmissions?
+A. Under no circumstances
+B. When transmitting code practice, information bulletins, or transmissions necessary to provide emergency
+communications
+C. At any time, as long as no music is transmitted
+D. At any time, as long as the material being transmitted did not originate from a commercial broadcast station

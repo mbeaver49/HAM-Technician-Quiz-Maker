@@ -1,0 +1,7 @@
+
+T7A04 (C)
+Which term describes the ability of a receiver to discriminate between multiple signals?
+A. Discrimination ratio
+B. Sensitivity
+C. Selectivity
+D. Harmonic distortion

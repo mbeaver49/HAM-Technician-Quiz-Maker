@@ -1,0 +1,7 @@
+
+T3A08 (C)
+Which of the following is a likely cause of irregular fading of signals received by ionospheric reflection?
+A. Frequency shift due to Faraday rotation
+B. Interference from thunderstorms
+C. Random combining of signals arriving via different paths
+D. Intermodulation distortion

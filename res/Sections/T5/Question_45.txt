@@ -1,0 +1,7 @@
+
+T5D12 (D)
+What is the voltage across a 10-ohm resistor if a current of 2 amperes flows through it?
+A. 8 volts
+B. 0.2 volts
+C. 12 volts
+D. 20 volts

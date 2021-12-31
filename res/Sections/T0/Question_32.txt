@@ -1,0 +1,8 @@
+
+T0C08 (A)
+Which of the following actions might amateur operators take to prevent exposure to RF radiation in excess of FCC-
+supplied limits?
+A. Relocate antennas
+B. Relocate the transmitter
+C. Increase the duty cycle
+D. All of these choices are correct

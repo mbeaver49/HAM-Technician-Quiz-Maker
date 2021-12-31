@@ -1,0 +1,7 @@
+
+T4B02 (A)
+Which of the following can be used to enter the operating frequency on a modern transceiver?
+A. The keypad or VFO knob
+B. The CTCSS or DTMF encoder
+C. The Automatic Frequency Control
+D. All of these choices are correct

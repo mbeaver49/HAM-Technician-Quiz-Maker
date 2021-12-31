@@ -1,0 +1,7 @@
+
+T4B04 (B)
+What is a way to enable quick access to a favorite frequency on your transceiver?
+A. Enable the CTCSS tones
+B. Store the frequency in a memory channel
+C. Disable the CTCSS tones
+D. Use the scan mode to select the desired frequency

@@ -1,0 +1,8 @@
+
+T2C03 (C)
+What should be done when using voice modes to ensure that voice messages containing unusual words are received
+correctly?
+A. Send the words by voice and Morse code
+B. Speak very loudly into the microphone
+C. Spell the words using a standard phonetic alphabet
+D. All of these choices are correct

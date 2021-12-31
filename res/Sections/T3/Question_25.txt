@@ -1,0 +1,7 @@
+
+T3C01 (C)
+Why are direct (not via a repeater) UHF signals rarely heard from stations outside your local coverage area?
+A. They are too weak to go very far
+B. FCC regulations prohibit them from going more than 50 miles
+C. UHF signals are usually not reflected by the ionosphere
+D. UHF signals are absorbed by the ionospheric D layer

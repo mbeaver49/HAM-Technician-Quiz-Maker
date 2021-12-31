@@ -1,0 +1,7 @@
+
+T6D10 (C)
+What is the function of component 2 in Figure T1?
+A. Give off light when current flows through it
+B. Supply electrical energy
+C. Control the flow of current
+D. Convert electrical energy into radio waves

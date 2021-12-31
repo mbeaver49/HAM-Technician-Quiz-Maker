@@ -1,0 +1,7 @@
+
+T7B10 (D)
+What might be a problem if you receive a report that your audio signal through the repeater is distorted or unintelligible?
+A. Your transmitter is slightly off frequency
+B. Your batteries are running low
+C. You are in a bad location
+D. All of these choices are correct

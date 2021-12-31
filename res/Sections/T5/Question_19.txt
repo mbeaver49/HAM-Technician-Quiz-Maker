@@ -1,0 +1,7 @@
+
+T5B06 (C)
+If an ammeter calibrated in amperes is used to measure a 3000-milliampere current, what reading would it show?
+A. 0.003 amperes
+B. 0.3 amperes
+C. 3 amperes
+D. 3,000,000 amperes

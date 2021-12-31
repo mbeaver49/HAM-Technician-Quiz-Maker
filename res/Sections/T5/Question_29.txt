@@ -1,0 +1,7 @@
+
+T5C10 (B)
+How much power is being used in a circuit when the applied voltage is 12 volts DC and the current is 2.5 amperes?
+A. 4.8 watts
+B. 30 watts
+C. 14.5 watts
+D. 0.208 watts

@@ -1,0 +1,7 @@
+
+T7D11 (B)
+Which of the following precautions should be taken when measuring circuit resistance with an ohmmeter?
+A. Ensure that the applied voltages are correct
+B. Ensure that the circuit is not powered
+C. Ensure that the circuit is grounded
+D. Ensure that the circuit is operating at the correct frequency

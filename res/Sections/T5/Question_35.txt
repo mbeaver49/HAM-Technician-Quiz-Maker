@@ -1,0 +1,7 @@
+
+T5D02 (A)
+What formula is used to calculate voltage in a circuit?
+A. Voltage (E) equals current (I) multiplied by resistance (R)
+B. Voltage (E) equals current (I) divided by resistance (R)
+C. Voltage (E) equals current (I) added to resistance (R)
+D. Voltage (E) equals current (I) minus resistance (R)

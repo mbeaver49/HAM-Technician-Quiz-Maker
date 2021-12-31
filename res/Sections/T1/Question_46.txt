@@ -1,0 +1,7 @@
+
+T1E01 (D) [97.7(a)]
+When is an amateur station permitted to transmit without a control operator?
+A. When using automatic control, such as in the case of a repeater
+B. When the station licensee is away and another licensed amateur is using the station
+C. When the transmitting station is an auxiliary station
+D. Never

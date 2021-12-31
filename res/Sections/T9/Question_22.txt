@@ -1,0 +1,7 @@
+
+T9B10 (C)
+What is the electrical difference between RG-58 and RG-8 coaxial cable?
+A. There is no significant difference between the two types
+B. RG-58 cable has two shields
+C. RG-8 cable has less loss at a given frequency
+D. RG-58 cable can handle higher power levels

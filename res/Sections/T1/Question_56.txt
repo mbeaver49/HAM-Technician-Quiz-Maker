@@ -1,0 +1,8 @@
+
+T1E11 (D) [97.103(a)]
+Who does the FCC presume to be the control operator of an amateur station, unless documentation to the contrary is in
+the station records?
+A. The station custodian
+B. The third-party participant
+C. The person operating the station equipment
+D. The station licensee

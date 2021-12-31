@@ -1,0 +1,7 @@
+
+T4A08 (D)
+Which of the following conductors provides the lowest impedance to RF signals?
+A. Round stranded wire
+B. Round copper-clad steel wire
+C. Twisted-pair cable
+D. Flat strap

@@ -1,0 +1,8 @@
+
+T1D09 (A) [97.113(5)(b)]
+Under which of the following circumstances are amateur stations authorized to transmit signals related to broadcasting,
+program production, or news gathering, assuming no other means is available?
+A. Only where such communications directly relate to the immediate safety of human life or protection of property
+B. Only when broadcasting communications to or from the space shuttle
+C. Only where noncommercial programming is gathered and supplied exclusively to the National Public Radio network
+D. Only when using amateur repeaters linked to the internet

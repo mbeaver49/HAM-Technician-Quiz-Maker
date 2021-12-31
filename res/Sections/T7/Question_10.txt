@@ -1,0 +1,7 @@
+
+T7A10 (B)
+What device increases the low-power output from a handheld transceiver?
+A. A voltage divider
+B. An RF power amplifier
+C. An impedance network
+D. All of these choices are correct
