@@ -214,8 +214,11 @@ if __name__ == '__main__':
         section_jumped = False
         question_jumped_to = 0
 
+        right = 0
+        wrong = 0
+
         """ START WITH LOOP STATEMENT TO KEEP PROGRAM RUNNING """
-        for k in range(section_size - 1):
+        for k in range(section_size):
             """ JUMP TO QUESTION USER DESIRES """
             while True and section_jumped is False:
                 question_jumped_to = int(input("Jump to question? [1, "+ str(section_size) +"]: "))
@@ -224,6 +227,8 @@ if __name__ == '__main__':
                     break
                 else:
                     print("INPUT ERROR: Please enter and integer between 1 and "+ str(section_size) +"")
+
+            
 
             k += question_jumped_to
 
@@ -255,7 +260,7 @@ if __name__ == '__main__':
                     print("")
 
                     """ DETERMINE OUTCOME GIVEN decision """
-                    if decision is str(Q.answer):
+                    if decision == str(Q.answer).lower():
                         print("### CORRECT ###")
                         right+=1
                     elif decision == "exit":
