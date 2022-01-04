@@ -233,7 +233,7 @@ if __name__ == '__main__':
             k += question_jumped_to
 
             """ SIMULATE WHILE LOOP """
-            if k <= section_size:
+            if k < section_size+1:
 
                 question_file = 'Question_'+str(k)+'.txt'
                 question_directory = 'Question_'+str(k)
