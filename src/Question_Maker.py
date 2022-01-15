@@ -256,7 +256,7 @@ if __name__ == '__main__':
                     Score_Display(str(i), str(k), str(section_size), str(right), str(wrong), Q.problem, Q.choices)
 
                     """ CALL getDecision FUNCTION TO HANDLE USER INPUT """
-                    decision = getDecision()
+                    decision = str(getDecision()).lower()
                     print("")
 
                     """ DETERMINE OUTCOME GIVEN decision """
