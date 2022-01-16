@@ -48,9 +48,9 @@ def getScore(inpu, answ, scor):
 
 def removeFromString(str, ind):
     tail = len(str)-1
-    if ind is 0:
+    if ind == 0:
         return str[1:]
-    if ind is tail:
+    if ind == tail:
         return str[0:tail]
     else:
         return str[0:ind]+str[(ind+1):]
@@ -67,7 +67,7 @@ def Program_Display():
 |  | |  | |_   _  ___  ___| |_ _  ___  _ __   | \  / | __ _| | _____ _ __   |
 |  | |  | | | | |/ _ \/ __| __| |/ _ \| '_ \  | |\/| |/ _` | |/ / _ \ '__|  |
 |  | |__| | |_| |  __/\__ \ |_| | (_) | | | | | |  | | (_| |   <  __/ |     |
-|    \___\_\\__,_|\___||___/\__|_|\___/|_| |_| |_|  |_|\__,_|_|\_\___|_|     |
+|  \_____\_\\__,_|\___||___/\__|_|\___/|_| |_| |_|  |_|\__,_|_|\_\___|_|     |
 |                                                                           |
 |                                                                           |                             
 |                   Developed by: Manvel Beaver                             |
@@ -217,6 +217,7 @@ if __name__ == '__main__':
         right = 0
         wrong = 0
 
+
         """ START WITH LOOP STATEMENT TO KEEP PROGRAM RUNNING """
         for k in range(section_size):
             """ JUMP TO QUESTION USER DESIRES """
@@ -279,3 +280,59 @@ if __name__ == '__main__':
                     print("")
                     print("")
                     time.sleep(2)
+
+        print("************************")        
+        print("*** NOW FOR ... ********")
+        print("************************")
+        time.sleep(1)
+
+        print("************************")
+        print("*** QUESTIONS MISSED! **")
+        print("************************")
+
+        time.sleep(2)
+        
+        for w in wrong_answer_arr:
+            question_file = 'Question_'+str(w)+'.txt'
+            question_directory = 'Question_'+str(w)
+            path_to_file = os.path.join(os.getcwd(), '..', 'res', 'Sections', section_folder, question_file)
+
+            valid_question = True
+            try:
+                data = getData(path_to_file)
+            except UnicodeDecodeError as e:
+                print(e)
+                valid_question = False
+            if valid_question is True:
+
+                """ INITIALIZE Question CLASS VARIABLES """
+                Q.problem = getQuestion(data)
+                Q.choices = getChoices(data)
+                Q.answer = getAnswer(data)
+
+                """ CALL Display FUNCTION TO STATE PARAMETERS NEEDED FOR A QUIZ """
+                Score_Display(str(i), str(w), str(section_size), str(right), str(wrong), Q.problem, Q.choices)
+
+                """ CALL getDecision FUNCTION TO HANDLE USER INPUT """
+                decision = str(getDecision()).lower()
+                print("")
+
+                """ DETERMINE OUTCOME GIVEN decision """
+                if decision == str(Q.answer).lower():
+                    print("### CORRECT ###")
+                    right+=1
+                elif decision == "exit":
+                    print("Closing program")
+                    exit()
+                else:
+                    print("&$ WRONG $&")
+                    wrong+=1
+
+                """ WAIT FOR USER TO CONTEMPLATE DECISION """
+                time.sleep(1)
+                print("")
+                print("CORRECT ANSWER WAS: ", Q.answer)
+                print("")
+                print("")
+                print("")
+                time.sleep(2)
